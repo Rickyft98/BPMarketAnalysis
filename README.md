@@ -1,2 +1,6 @@
 # BPMarketAnalysis
-a Casual Pandas Code to analysis the current BP Market
+A Casual Pandas Code to Analysis the current BP Market
+
+The bad thing is that I do not have enough experience in coding to make an Scrap in-game to get current prices, so you may update the prices if you want more accurate information
+
+Current prices was typed at 19/10/2025

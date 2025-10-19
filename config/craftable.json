@@ -1,0 +1,18 @@
+{
+  "Mistery Metal": {
+    "focus_cost": 10,
+    "yield": 1
+  },
+  "Radiant Stone": {
+    "focus_cost": 10,
+    "yield": 1
+  },
+  "Fine Forgestone": {
+    "focus_cost": 10,
+    "yield": 1
+  },
+  "Bury Mech Shard": {
+    "focus_cost": 10,
+    "yield": 1
+  }
+}
