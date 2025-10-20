@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-BLUE PROTOCOL - PROFIT CALCULATOR (OPTIMIZED)
+BLUE PROTOCOL - PROFIT CALCULATOR (INTERACTIVE)
 """
 
 import json
@@ -437,45 +437,175 @@ class ProfitCalculatorOptimized:
             traceback.print_exc()
             return {}
 
+    def show_available_products(self):
+        """Show all available craftable products"""
+        print("\n📦 AVAILABLE PRODUCTS:")
+        print("-" * 30)
+        for i, product in enumerate(self.recipes.keys(), 1):
+            if product in self.craftable:
+                print(f"{i}. {product}")
+        print(f"\nTotal: {len([p for p in self.recipes.keys() if p in self.craftable])} craftable products")
+
+    def analyze_single_product(self, product_name):
+        """Analyze a single specific product"""
+        if product_name not in self.recipes:
+            print(f"❌ Product '{product_name}' not found!")
+            return None
+        
+        if product_name not in self.craftable:
+            print(f"❌ Crafting mechanics for '{product_name}' not found!")
+            return None
+
+        print(f"\n🔍 Analyzing: {product_name}")
+        print("=" * 50)
+        
+        # Calculate profit for buying all
+        profit_buy_all, details = self.calculate_profit_buy_all(product_name)
+        
+        if profit_buy_all <= 0:
+            print(f"❌ {product_name} is not profitable")
+            return None
+        
+        # Show basic info
+        print(f"💰 Daily Profit (Buy All): {profit_buy_all:,} Luno")
+        print(f"⚡ Efficiency: {profit_buy_all / self.daily_focus:.1f} Luno/Focus")
+        print(f"🛠️ Crafts per day: {details['crafted_units']}")
+        print(f"📦 Materials needed: {details['material_breakdown']}")
+        
+        # Check if mixed strategy is better
+        best_profit = profit_buy_all
+        best_strategy = "Buy All Materials"
+        
+        for gather_item, gather_mech in self.gatherable.items():
+            if gather_item in self.recipes[product_name]:
+                # Quick test with minimal gathering
+                test_profit, test_details = self.calculate_profit_for_allocation(
+                    gather_mech['focus_cost'], product_name, gather_item
+                )
+                
+                if test_profit > best_profit:
+                    best_profit = test_profit
+                    best_strategy = f"Gather {gather_item} + Craft"
+        
+        print(f"🎯 Best Strategy: {best_strategy}")
+        return {
+            'product': product_name,
+            'daily_profit': best_profit,
+            'efficiency': best_profit / self.daily_focus,
+            'strategy': best_strategy
+        }
+
+
+def interactive_menu():
+    """Interactive menu for the profit calculator"""
+    calculator = ProfitCalculatorOptimized()
+    
+    while True:
+        print("\n" + "="*60)
+        print("💰 BLUE PROTOCOL - PROFIT CALCULATOR")
+        print("="*60)
+        print("1. 📊 Full Analysis (All Strategies)")
+        print("2. 🔍 Analyze Specific Product")
+        print("3. ⛏️ Only Gathering Analysis")
+        print("4. 🛠️ Only Optimal Strategies")
+        print("5. 📦 Show Available Products")
+        print("6. ⚙️ Change Daily Focus (Current: 400)")
+        print("7. 🚪 Exit")
+        print("-" * 60)
+        
+        choice = input("Select an option (1-7): ").strip()
+        
+        if choice == '1':
+            print("\n🔄 Running FULL analysis...")
+            results = calculator.run_analysis()
+            
+            print("\n" + "="*60)
+            print("FULL ANALYSIS RESULTS:")
+            print("="*60)
+            
+            for key, df in results.items():
+                if not df.empty:
+                    print(f"\n{key.upper().replace('_', ' ')}:")
+                    print("-" * 40)
+                    
+                    if key == 'optimal_strategies':
+                        important_cols = ['Method', 'Crafted Units', 'Daily Profit', 'Luno/Focus', 
+                                        'Focus Allocation', 'Total Materials Needed']
+                        available_cols = [col for col in important_cols if col in df.columns]
+                        print(df[available_cols].to_string(index=False))
+                    
+                    elif key == 'comprehensive':
+                        print("TOP STRATEGIES:")
+                        print(df.head(10).to_string(index=False))
+                        print(f"\n📊 Total strategies: {len(df)}")
+                    
+                    else:
+                        print(df.to_string(index=False))
+            
+            input("\nPress Enter to continue...")
+        
+        elif choice == '2':
+            calculator.show_available_products()
+            product_name = input("\nEnter product name: ").strip()
+            result = calculator.analyze_single_product(product_name)
+            
+            if result:
+                print(f"\n✅ Analysis complete!")
+                print(f"   Product: {result['product']}")
+                print(f"   Daily Profit: {result['daily_profit']:,} Luno")
+                print(f"   Efficiency: {result['efficiency']:.1f} Luno/Focus")
+                print(f"   Strategy: {result['strategy']}")
+            
+            input("\nPress Enter to continue...")
+        
+        elif choice == '3':
+            print("\n⛏️ GATHERING ANALYSIS:")
+            print("-" * 40)
+            gathering_df = calculator.calculate_only_gathering()
+            if not gathering_df.empty:
+                print(gathering_df.to_string(index=False))
+            else:
+                print("No gathering data available")
+            input("\nPress Enter to continue...")
+        
+        elif choice == '4':
+            print("\n🛠️ OPTIMAL STRATEGIES:")
+            print("-" * 40)
+            optimal_df = calculator.find_optimal_strategies()
+            if not optimal_df.empty:
+                important_cols = ['Method', 'Daily Profit', 'Luno/Focus', 'Focus Allocation']
+                available_cols = [col for col in important_cols if col in optimal_df.columns]
+                print(optimal_df[available_cols].to_string(index=False))
+            else:
+                print("No optimal strategies found")
+            input("\nPress Enter to continue...")
+        
+        elif choice == '5':
+            calculator.show_available_products()
+            input("\nPress Enter to continue...")
+        
+        elif choice == '6':
+            try:
+                new_focus = int(input("Enter new daily focus amount: "))
+                if new_focus > 0:
+                    calculator.daily_focus = new_focus
+                    print(f"✅ Daily focus updated to: {new_focus}")
+                else:
+                    print("❌ Focus must be positive")
+            except ValueError:
+                print("❌ Please enter a valid number")
+            input("\nPress Enter to continue...")
+        
+        elif choice == '7':
+            print("\n👋 Thank you for using Blue Protocol Profit Calculator!")
+            break
+        
+        else:
+            print("❌ Invalid option. Please try again.")
+            input("Press Enter to continue...")
+
 
 # Main execution block
 if __name__ == "__main__":
-    # Instantiate the OPTIMIZED calculator
-    calculator = ProfitCalculatorOptimized()
-    
-    # Run the analysis
-    print("🔄 Running OPTIMIZED profit analysis...")
-    results = calculator.run_analysis()
-    
-    # Print results to console
-    print("\n" + "="*60)
-    print("PROFIT ANALYSIS RESULTS (OPTIMIZED):")
-    print("="*60)
-    
-    for key, df in results.items():
-        if not df.empty:
-            print(f"\n{key.upper().replace('_', ' ')}:")
-            print("-" * 40)
-            
-            if key == 'optimal_strategies':
-                # Show ALL optimal strategies (no limit)
-                important_cols = ['Method', 'Crafted Units', 'Daily Profit', 'Luno/Focus', 
-                                'Focus Allocation', 'Total Materials Needed', 'You Will Gather', 
-                                'You Need To Buy', 'Other Materials Needed', 'Optimization Method']
-                available_cols = [col for col in important_cols if col in df.columns]
-                print(df[available_cols].to_string(index=False))
-            
-            elif key == 'comprehensive':
-                # Show TOP 10 comprehensive results
-                print("TOP 10 STRATEGIES:")
-                print(df.head(10).to_string(index=False))
-                
-                # Show additional stats
-                print(f"\n📊 Total strategies analyzed: {len(df)}")
-                if len(df) > 10:
-                    print("💡 Showing top 10 by Daily Profit")
-            
-            else:
-                # Show all gathering results
-                print(df.to_string(index=False))
-            print()
+    print("🚀 Starting Blue Protocol Profit Calculator...")
+    interactive_menu()
