@@ -1,0 +1,17 @@
+{
+  "Baru Ore": {
+    "focus_cost": 20,
+    "yield": 10,
+    "Job":"Mineralogy"
+  },
+  "Azte Ore": {
+    "focus_cost": 20,
+    "yield": 10,
+    "Job":"Mineralogy"
+  },
+  "Luna Ore": {
+    "focus_cost": 20,
+    "yield": 10,
+    "Job":"Mineralogy"
+  }
+}
