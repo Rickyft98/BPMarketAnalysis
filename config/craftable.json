@@ -1,0 +1,22 @@
+{
+  "Mistery Metal": {
+    "focus_cost": 10,
+    "yield": 1,
+    "Job":"Mineralogy"
+  },
+  "Radiant Stone": {
+    "focus_cost": 10,
+    "yield": 1,
+    "Job":"Mineralogy"
+  },
+  "Fine Forgestone": {
+    "focus_cost": 10,
+    "yield": 1,
+    "Job":"Mineralogy"
+  },
+  "Bury Mech Shard": {
+    "focus_cost": 10,
+    "yield": 1,
+    "Job":"Mineralogy"
+  }
+}
