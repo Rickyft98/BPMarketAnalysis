@@ -1,0 +1,823 @@
+compoundId,id,name,icon,grade,language,dbType,mainCategory,createdAt,isDisabled
+recipe-2010001,2010001,Raw Meat,/assets/item_icons_shourou_01,1,en,recipe,culinary,2025-10-16,False
+recipe-2010002,2010002,Premium Raw Meat,/assets/item_icons_shourou_02,2,en,recipe,culinary,2025-10-16,False
+recipe-2010003,2010003,Exquisite Raw Meat,/assets/item_icons_shourou_03,3,en,recipe,culinary,2025-10-16,False
+recipe-2010004,2010004,Fish Meat - Novice,/assets/item_icons_yurou_01,1,en,recipe,culinary,2025-10-16,False
+recipe-2010005,2010005,Fish Meat - Master,/assets/item_icons_yurou_01,1,en,recipe,culinary,2025-10-16,False
+recipe-2010006,2010006,Premium Fish Meat - Novice,/assets/item_icons_yurou_02,2,en,recipe,culinary,2025-10-16,False
+recipe-2010007,2010007,Premium Fish Meat - Master,/assets/item_icons_yurou_02,2,en,recipe,culinary,2025-10-16,False
+recipe-2010008,2010008,Exquisite Fish Meat - Novice,/assets/item_icons_yurou_03,3,en,recipe,culinary,2025-10-16,False
+recipe-2010009,2010009,Asterscad - Novice,/assets/item_icons_yurou_03,1,en,recipe,culinary,2025-10-16,False
+recipe-2010010,2010010,Asterscad - Master,/assets/item_icons_yurou_03,2,en,recipe,culinary,2025-10-16,False
+recipe-2010011,2010011,Astermackere - Novice,/assets/item_icons_yurou_03,1,en,recipe,culinary,2025-10-16,False
+recipe-2010012,2010012,Astermackere - Master,/assets/item_icons_yurou_03,2,en,recipe,culinary,2025-10-16,False
+recipe-2010013,2010013,Flaming Grouper - Novice,/assets/item_icons_yurou_03,1,en,recipe,culinary,2025-10-16,False
+recipe-2010014,2010014,Flaming Grouper - Master,/assets/item_icons_yurou_03,2,en,recipe,culinary,2025-10-16,False
+recipe-2010015,2010015,Continental Puffer - Novice,/assets/item_icons_yurou_03,1,en,recipe,culinary,2025-10-16,False
+recipe-2010016,2010016,Continental Puffer - Master,/assets/item_icons_yurou_03,2,en,recipe,culinary,2025-10-16,False
+recipe-2010017,2010017,Continental Puffer - Supreme,/assets/item_icons_yurou_03,3,en,recipe,culinary,2025-10-16,False
+recipe-2010018,2010018,Regnus Bighead - Novice,/assets/item_icons_yurou_03,1,en,recipe,culinary,2025-10-16,False
+recipe-2010019,2010019,Regnus Bighead - Master,/assets/item_icons_yurou_03,2,en,recipe,culinary,2025-10-16,False
+recipe-2010020,2010020,Regnus Bighead - Supreme,/assets/item_icons_yurou_03,3,en,recipe,culinary,2025-10-16,False
+recipe-2010021,2010021,Snowy Bighead - Novice,/assets/item_icons_yurou_03,1,en,recipe,culinary,2025-10-16,False
+recipe-2010022,2010022,Snowy Bighead - Master,/assets/item_icons_yurou_03,2,en,recipe,culinary,2025-10-16,False
+recipe-2010023,2010023,Snowy Bighead - Supreme,/assets/item_icons_yurou_03,3,en,recipe,culinary,2025-10-16,False
+recipe-2010024,2010024,Rockpea - Master,/assets/item_icons_yurou_03,2,en,recipe,culinary,2025-10-16,False
+recipe-2010025,2010025,Rockpea - Supreme,/assets/item_icons_yurou_03,3,en,recipe,culinary,2025-10-16,False
+recipe-2010026,2010026,Stellar Squirrelfish - Master,/assets/item_icons_yurou_03,2,en,recipe,culinary,2025-10-16,False
+recipe-2010027,2010027,Stellar Squirrelfish - Supreme,/assets/item_icons_yurou_03,3,en,recipe,culinary,2025-10-16,False
+recipe-2010028,2010028,Hanikon Bighead - Master,/assets/item_icons_yurou_03,2,en,recipe,culinary,2025-10-16,False
+recipe-2010029,2010029,Hanikon Bighead - Supreme,/assets/item_icons_yurou_03,3,en,recipe,culinary,2025-10-16,False
+recipe-2010030,2010030,Azure Damsel - Supreme,/assets/item_icons_yurou_03,3,en,recipe,culinary,2025-10-16,False
+recipe-2010031,2010031,Exquisite Fish Meat - Master,/assets/item_icons_yurou_03,3,en,recipe,culinary,2025-10-16,False
+recipe-2010032,2010032,Cheer-Up Treat,/assets/item_icons_cuisine56,3,en,recipe,culinary,2025-10-16,False
+recipe-2010033,2010033,Canned Fish,/assets/item_icons_cuisine46_01,1,en,recipe,culinary,2025-10-16,False
+recipe-2010034,2010034,Grilled Fish,/assets/item_icons_cuisine04_01,1,en,recipe,culinary,2025-10-16,False
+recipe-2010035,2010035,Jar Meat,/assets/item_icons_cuisine47_01,1,en,recipe,culinary,2025-10-16,False
+recipe-2010036,2010036,Blossom Dumpling,/assets/item_icons_cuisine51_01,1,en,recipe,culinary,2025-10-16,False
+recipe-2010037,2010037,Honey Mushroom Soup,/assets/item_icons_mushroomsoup_01,1,en,recipe,culinary,2025-10-16,False
+recipe-2010038,2010038,Shroom Jelly,/assets/item_icons_cuisine39_01,1,en,recipe,culinary,2025-10-16,False
+recipe-2010039,2010039,Fragrant Fresh Fruit Tea,/assets/item_icons_cuisine20_01,1,en,recipe,culinary,2025-10-16,False
+recipe-2010040,2010040,Sweet Dew Berry,/assets/item_icons_cuisine57_01,1,en,recipe,culinary,2025-10-16,False
+recipe-2010041,2010041,Lavafish Stew,/assets/item_icons_cuisine53_01,2,en,recipe,culinary,2025-10-16,False
+recipe-2010042,2010042,Glazefin Chop,/assets/item_icons_steak_01,2,en,recipe,culinary,2025-10-16,False
+recipe-2010043,2010043,Astelpot Duo,/assets/item_icons_cuisine29_01,2,en,recipe,culinary,2025-10-16,False
+recipe-2010044,2010044,Astelshroom Pot,/assets/item_icons_cuisine17_01,2,en,recipe,culinary,2025-10-16,False
+recipe-2010045,2010045,Veilfruit Stew,/assets/item_icons_cuisine12_01,2,en,recipe,culinary,2025-10-16,False
+recipe-2010046,2010046,Aromafish Can,/assets/item_icons_fish_01,2,en,recipe,culinary,2025-10-16,False
+recipe-2010047,2010047,Stuffshroom Puff,/assets/item_icons_cuisine27_01,2,en,recipe,culinary,2025-10-16,False
+recipe-2010048,2010048,Buttery Chunks,/assets/item_icons_cuisine38_01,2,en,recipe,culinary,2025-10-16,False
+recipe-2010049,2010049,Charfruit Roast,/assets/item_icons_cuisine08_01,2,en,recipe,culinary,2025-10-16,False
+recipe-2010050,2010050,Plainmeat Soup,/assets/item_icons_cuisine52_01,2,en,recipe,culinary,2025-10-16,False
+recipe-2010051,2010051,Simple Asterleeds Pot,/assets/item_icons_cuisine13,2,en,recipe,culinary,2025-10-16,False
+recipe-2010052,2010052,Nine-Flavor Meat,/assets/item_icons_cuisine50_01,2,en,recipe,culinary,2025-10-16,False
+recipe-2010053,2010053,Gulu Sauce,/assets/item_icons_cuisine44_01,2,en,recipe,culinary,2025-10-16,False
+recipe-2010054,2010054,Milky Umm,/assets/item_icons_cuisine42_01,2,en,recipe,culinary,2025-10-16,False
+recipe-2010055,2010055,Meatfish Skewer,/assets/item_icons_cuisine02_02,3,en,recipe,culinary,2025-10-16,False
+recipe-2010056,2010056,Hearty Stewmix,/assets/item_icons_hotpot_02,3,en,recipe,culinary,2025-10-16,False
+recipe-2010057,2010057,Painfly,/assets/item_icons_recoversoup_02,3,en,recipe,culinary,2025-10-16,False
+recipe-2010058,2010058,Shroomfish Stew,/assets/item_icons_cuisine18_02,3,en,recipe,culinary,2025-10-16,False
+recipe-2010059,2010059,Astelpot Feast,/assets/item_icons_cuisine16_02,3,en,recipe,culinary,2025-10-16,False
+recipe-2010060,2010060,Fruitocean Gelato,/assets/item_icons_cuisine40_02,3,en,recipe,culinary,2025-10-16,False
+recipe-2010061,2010061,Seabreeze Festival Selection,/assets/item_icons_seapot_02,3,en,recipe,culinary,2025-10-16,False
+recipe-2010062,2010062,Buttermelt Roast,/assets/item_icons_cuisine32_02,3,en,recipe,culinary,2025-10-16,False
+recipe-2010063,2010063,Glazed Meat Relish,/assets/item_icons_cuisine22_02,3,en,recipe,culinary,2025-10-16,False
+recipe-2010064,2010064,Kanamia Morsel,/assets/item_icons_nutcup_02,3,en,recipe,culinary,2025-10-16,False
+recipe-2010065,2010065,Buttery Flyfish,/assets/item_icons_cuisine28_02,3,en,recipe,culinary,2025-10-16,False
+recipe-2010066,2010066,Bearcut Patty,/assets/item_icons_cuisine55_02,3,en,recipe,culinary,2025-10-16,False
+recipe-2010067,2010067,Spiceshroom Soup,/assets/item_icons_cuisine21_02,3,en,recipe,culinary,2025-10-16,False
+recipe-2010068,2010068,Wanderfruit Juice,/assets/item_icons_berryjuice01_02,3,en,recipe,culinary,2025-10-16,False
+recipe-2010201,2010201,Salt,/assets/item_icons_salt,0,en,recipe,culinary,2025-10-16,False
+recipe-2010202,2010202,Honey,/assets/item_icons_fengmi,0,en,recipe,culinary,2025-10-16,False
+recipe-2010203,2010203,Flour,/assets/item_icons_flour,0,en,recipe,culinary,2025-10-16,False
+recipe-2010204,2010204,Butter,/assets/item_icons_butter,0,en,recipe,culinary,2025-10-16,False
+recipe-2010205,2010205,Nine-Flavor Spice,/assets/item_icons_pepper,0,en,recipe,culinary,2025-10-16,False
+recipe-2010206,2010206,Overcooked Bone Meal,/assets/item_icons_lifematerial_bone_powder01,1,en,recipe,culinary,2025-10-16,False
+recipe-2010207,2010207,Botanic Growth Powder,/assets/item_icons_lifematerial_plant_powder01,1,en,recipe,culinary,2025-10-16,False
+recipe-2010208,2010208,Refined Bone Meal,/assets/item_icons_lifematerial_bone_powder02,2,en,recipe,culinary,2025-10-16,False
+recipe-2010209,2010209,Refined Botanic Powder,/assets/item_icons_lifematerial_plant_powder02,2,en,recipe,culinary,2025-10-16,False
+recipe-2010210,2010210,Essence Bone Meal,/assets/item_icons_lifematerial_bone_powder03,3,en,recipe,culinary,2025-10-16,False
+recipe-2010211,2010211,Enriching Botanic Growth Powder,/assets/item_icons_lifematerial_plant_powder03,3,en,recipe,culinary,2025-10-16,False
+recipe-2010212,2010212,Low-Purity Fish Oil,/assets/item_icons_lifematerial_fish_oil01,1,en,recipe,culinary,2025-10-16,False
+recipe-2010213,2010213,Refined Fish Oil,/assets/item_icons_lifematerial_fish_oil02,2,en,recipe,culinary,2025-10-16,False
+recipe-2010214,2010214,Essence Fish Oil,/assets/item_icons_lifematerial_fish_oil03,3,en,recipe,culinary,2025-10-16,False
+recipe-2010301,2010301,Regular Bait,/assets/item_icons_fishbait01,0,en,recipe,culinary,2025-10-16,False
+recipe-2010302,2010302,Precise Bait,/assets/item_icons_fishbait03,1,en,recipe,culinary,2025-10-16,False
+recipe-2010303,2010303,Special Bait,/assets/item_icons_fishbait04,2,en,recipe,culinary,2025-10-16,False
+recipe-2010304,2010304,Fertilizer,/assets/home_planting_fertilize01,2,en,recipe,culinary,2025-10-16,False
+recipe-2010305,2010305,Advanced Fertilizer,/assets/home_planting_fertilize02,3,en,recipe,culinary,2025-10-16,False
+recipe-2010306,2010306,Sterilizing Fertilizer,/assets/home_planting_fertilize03,3,en,recipe,culinary,2025-10-16,False
+recipe-2010307,2010307,Garden Fertilizer T4,/assets/home_planting_fertilize04,3,en,recipe,culinary,2025-10-16,False
+recipe-2010308,2010308,Garden Fertilizer T5,/assets/home_planting_fertilize05,4,en,recipe,culinary,2025-10-16,False
+recipe-2020001,2020001,Ice Particle Lv.1,/assets/item_icons_ice_element_powder_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020002,2020002,Ice Particle Lv.2,/assets/item_icons_ice_element_powder_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020003,2020003,Ice Particle Lv.3,/assets/item_icons_ice_element_powder_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020004,2020004,Fire Particle Lv.1,/assets/item_icons_fire_element_powder_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020005,2020005,Fire Particle Lv.2,/assets/item_icons_fire_element_powder_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020006,2020006,Fire Particle Lv.3,/assets/item_icons_fire_element_powder_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020007,2020007,Forest Particle Lv.1,/assets/item_icons_forest_element_powder_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020008,2020008,Forest Particle Lv.2,/assets/item_icons_forest_element_powder_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020009,2020009,Forest Particle Lv.3,/assets/item_icons_forest_element_powder_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020010,2020010,Earth Particle Lv.1,/assets/item_icons_earth_element_powder_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020011,2020011,Earth Particle Lv.2,/assets/item_icons_earth_element_powder_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020012,2020012,Earth Particle Lv.3,/assets/item_icons_earth_element_powder_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020013,2020013,Wind Particle Lv.1,/assets/item_icons_wind_element_powder_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020014,2020014,Wind Particle Lv.2,/assets/item_icons_wind_element_powder_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020015,2020015,Wind Particle Lv.3,/assets/item_icons_wind_element_powder_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020016,2020016,Lightning Particle Lv.1,/assets/item_icons_thunder_element_powder_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020017,2020017,Lightning Particle Lv.2,/assets/item_icons_thunder_element_powder_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020018,2020018,Lightning Particle Lv.3,/assets/item_icons_thunder_element_powder_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020019,2020019,Light Particle Lv.1,/assets/item_icons_light_element_powder_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020020,2020020,Light Particle Lv.2,/assets/item_icons_light_element_powder_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020021,2020021,Light Particle Lv.3,/assets/item_icons_light_element_powder_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020022,2020022,Dark Particle Lv.1,/assets/item_icons_dark_element_powder_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020023,2020023,Dark Particle Lv.2,/assets/item_icons_dark_element_powder_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020024,2020024,Dark Particle Lv.3,/assets/item_icons_dark_element_powder_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020025,2020025,Arcane Conversion Potion,/assets/item_icons_lifematerial_transform_agent01,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020026,2020026,Knowledge Convert Potion,/assets/item_icons_lifematerial_transform_agent02,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020027,2020027,Basic: Fire Serum,/assets/item_icons_fire_syrup_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020028,2020028,Basic: Fire Drop,/assets/item_icons_antifire_pastille_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020029,2020029,Basic: Ice Serum,/assets/item_icons_ice_syrup_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020030,2020030,Basic: Ice Drop,/assets/item_icons_antiice_pastille_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020031,2020031,Intermediate: Fire Serum,/assets/item_icons_fire_syrup_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020032,2020032,Intermediate: Fire Drop,/assets/item_icons_antifire_pastille_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020033,2020033,Intermediate: Ice Serum,/assets/item_icons_ice_syrup_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020034,2020034,Intermediate: Ice Drop,/assets/item_icons_antiice_pastille_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020035,2020035,Advanced: Fire Serum,/assets/item_icons_fire_syrup_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020036,2020036,Advanced: Fire Drop,/assets/item_icons_antifire_pastille_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020037,2020037,Advanced: Ice Serum,/assets/item_icons_ice_syrup_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020038,2020038,Advanced: Ice Drop,/assets/item_icons_antiice_pastille_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020039,2020039,Basic: Forest Serum,/assets/item_icons_forest_syrup_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020040,2020040,Basic: Forest Drop,/assets/item_icons_antiforest_pastille_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020041,2020041,Basic: Earth Serum,/assets/item_icons_earth_syrup_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020042,2020042,Basic: Earth Drop,/assets/item_icons_antiearth_pastille_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020043,2020043,Intermediate: Forest Serum,/assets/item_icons_forest_syrup_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020044,2020044,Intermediate: Forest Drop,/assets/item_icons_antiforest_pastille_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020045,2020045,Intermediate: Earth Serum,/assets/item_icons_earth_syrup_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020046,2020046,Intermediate: Earth Drop,/assets/item_icons_antiearth_pastille_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020047,2020047,Advanced: Forest Serum,/assets/item_icons_forest_syrup_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020048,2020048,Advanced: Forest Drop,/assets/item_icons_antiforest_pastille_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020049,2020049,Advanced: Earth Serum,/assets/item_icons_earth_syrup_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020050,2020050,Advanced: Earth Drop,/assets/item_icons_antiearth_pastille_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020051,2020051,Basic: Wind Serum,/assets/item_icons_wind_syrup_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020052,2020052,Basic: Wind Drop,/assets/item_icons_antiwind_pastille_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020053,2020053,Basic: Lightning Serum,/assets/item_icons_thunder_syrup_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020054,2020054,Basic: Lightning Drop,/assets/item_icons_antithunder_pastille_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020055,2020055,Intermediate: Wind Serum,/assets/item_icons_wind_syrup_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020056,2020056,Intermediate: Wind Drop,/assets/item_icons_antiwind_pastille_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020057,2020057,Intermediate: Lightning Serum,/assets/item_icons_thunder_syrup_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020058,2020058,Intermediate: Lightning Drop,/assets/item_icons_antithunder_pastille_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020059,2020059,Advanced: Wind Serum,/assets/item_icons_wind_syrup_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020060,2020060,Advanced: Wind Drop,/assets/item_icons_antiwind_pastille_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020061,2020061,Advanced: Lightning Serum,/assets/item_icons_thunder_syrup_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020062,2020062,Advanced: Lightning Drop,/assets/item_icons_antithunder_pastille_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020063,2020063,Basic: Light Serum,/assets/item_icons_light_syrup_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020064,2020064,Basic: Light Drop,/assets/item_icons_antilight_pastille_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020065,2020065,Basic: Dark Serum,/assets/item_icons_dark_syrup_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020066,2020066,Basic: Dark Drop,/assets/item_icons_antidark_pastille_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020067,2020067,Intermediate: Light Serum,/assets/item_icons_light_syrup_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020068,2020068,Intermediate: Light Drop,/assets/item_icons_antilight_pastille_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020069,2020069,Intermediate: Dark Serum,/assets/item_icons_dark_syrup_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020070,2020070,Intermediate: Dark Drop,/assets/item_icons_antidark_pastille_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020071,2020071,Advanced: Light Serum,/assets/item_icons_light_syrup_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020072,2020072,Advanced: Light Drop,/assets/item_icons_antilight_pastille_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020073,2020073,Advanced: Dark Serum,/assets/item_icons_dark_syrup_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020074,2020074,Advanced: Dark Drop,/assets/item_icons_antidark_pastille_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020075,2020075,Basic: Healing Aromatic,/assets/item_icons_healing_ointment_01_01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020076,2020076,Intermediate: Healing Aromatic,/assets/item_icons_healing_ointment_01_02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020077,2020077,Advanced: Healing Aromatic,/assets/item_icons_healing_ointment_01_03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020078,2020078,Red Spray,/assets/item_icons_lifematerial_spray01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020079,2020079,Orange Spray,/assets/item_icons_lifematerial_spray02,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020080,2020080,Yellow Spray,/assets/item_icons_lifematerial_spray03,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020081,2020081,Green Spray,/assets/item_icons_lifematerial_spray04,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020082,2020082,Cyan Spray,/assets/item_icons_lifematerial_spray05,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020083,2020083,Blue Spray,/assets/item_icons_lifematerial_spray06,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020084,2020084,Purple Spray,/assets/item_icons_lifematerial_spray07,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020085,2020085,Toy - White Fireworks,/assets/item_icons_toy_firework_white,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020086,2020086,Toy - Blue Fireworks,/assets/item_icons_toy_firework_blue,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020087,2020087,Toy - Green Fireworks,/assets/item_icons_toy_firework_green,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020088,2020088,Toy - Pink Fireworks,/assets/item_icons_toy_firework_pink,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020089,2020089,Toy - Epic Fireworks,/assets/item_icons_toy_firework_purple,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020090,2020090,Toy - Orange Fireworks,/assets/item_icons_toy_firework_orange,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020091,2020091,Toy - Yellow Fireworks,/assets/item_icons_toy_firework_yellow,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020092,2020092,Toy - Rainbow Fireworks,/assets/item_icons_toy_firework_colored,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020093,2020093,Toy - Ee-chan Firework,/assets/item_icons_toy_firework_nabo,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020201,2020201,Boiled Water,/assets/item_icons_lifematerial_distilled_water01,0,en,recipe,alchemy,2025-10-16,False
+recipe-2020202,2020202,Plant Oil,/assets/item_icons_lifematerial_vegetable_oil01,0,en,recipe,alchemy,2025-10-16,False
+recipe-2020203,2020203,Enigmite Powder,/assets/item_icons_lifematerial_mysterious_powder01,0,en,recipe,alchemy,2025-10-16,False
+recipe-2020204,2020204,Potion Catalyst - REC,/assets/item_icons_medicine_catalyst_heal_01,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020205,2020205,Potion Catalyst - ENH,/assets/item_icons_medicine_catalyst_power_01,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020206,2020206,Potion Catalyst - RES,/assets/item_icons_sample02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020207,2020207,Neutralizing Reaction Catalyst,/assets/item_icons_neutralization_catalyst_01,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020208,2020208,Mortar,/assets/item_icons_lifematerial_mud01,0,en,recipe,alchemy,2025-10-16,False
+recipe-2020209,2020209,Beeswax,/assets/item_icons_lifematerial_wax01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020210,2020210,Natron,/assets/item_icons_lifematerial_natronite01,0,en,recipe,alchemy,2025-10-16,False
+recipe-2020211,2020211,Glass Plate,/assets/item_icons_lifematerial_glass_pane01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020212,2020212,Rubber,/assets/item_icons_lifematerial_rubber01,0,en,recipe,alchemy,2025-10-16,False
+recipe-2020213,2020213,Mixing Agent,/assets/item_icons_lifematerial_decolorization_reagent01,0,en,recipe,alchemy,2025-10-16,False
+recipe-2020214,2020214,Varnish,/assets/item_icons_lifematerial_varnish01,0,en,recipe,alchemy,2025-10-16,False
+recipe-2020215,2020215,Evergreen Agent T-1,/assets/item_icons_lifematerial_plant_evergreen_reagent01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020216,2020216,Adhesive,/assets/item_icons_lifematerial_glue01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020217,2020217,Fired Brick,/assets/item_icons_lifematerial_brick01,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020218,2020218,Evergreen Agent T-2,/assets/item_icons_lifematerial_plant_evergreen_reagent02,1,en,recipe,alchemy,2025-10-16,False
+recipe-2020219,2020219,Ink,/assets/item_icons_lifematerial_ink01,0,en,recipe,alchemy,2025-10-16,False
+recipe-2020220,2020220,Chitin fiber,/assets/item_icons_lifematerial_cellulose01,0,en,recipe,alchemy,2025-10-16,False
+recipe-2020221,2020221,Evergreen Agent T-3,/assets/item_icons_lifematerial_plant_evergreen_reagent03,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020222,2020222,Oil Wax,/assets/item_icons_lifematerial_wax02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020223,2020223,Advanced Plate,/assets/item_icons_lifematerial_glass_pane02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020224,2020224,Black Adhesive,/assets/item_icons_lifematerial_glue02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020225,2020225,Evergreen Agent T-4,/assets/item_icons_lifematerial_plant_evergreen_reagent04,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020226,2020226,Advanced Brick,/assets/item_icons_lifematerial_brick02,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020227,2020227,Residue-Free Adhesive,/assets/item_icons_lifematerial_glue03,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020228,2020228,Evergreen Agent T-5,/assets/item_icons_lifematerial_plant_evergreen_reagent05,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020301,2020301,Pottery Plant,/assets/home_interior_props_plant003_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020302,2020302,Striped Plant,/assets/home_interior_props_plant004_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020303,2020303,Feather-Leaf Green Plant,/assets/home_interior_props_plant001_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020304,2020304,Banana Leaf Plant,/assets/home_outside_beach_plant001_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020305,2020305,Red Brick Wall,/assets/home_interior_decoration_wall006_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020306,2020306,Quaint Clay Vase,/assets/home_interior_props_pot001_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020307,2020307,Quaint Pottery Pot,/assets/home_interior_props_pot006_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020308,2020308,Purple Bromeliad Plant,/assets/home_interior_props_plant006_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020309,2020309,White Porcelain Plant,/assets/home_interior_props_plant002_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020310,2020310,Artisanal Bottle - I,/assets/home_interior_props_winebottle014_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020311,2020311,Artisanal Bottle - II,/assets/home_interior_props_winebottle011_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020312,2020312,Artisanal Bottle - III,/assets/home_interior_props_winebottle012_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020313,2020313,Artisanal Bottle - IV,/assets/home_interior_props_winebottle003_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020314,2020314,Artisanal Bottle - V,/assets/home_interior_props_winebottle004_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020315,2020315,Artisanal Bottle - VI,/assets/home_interior_props_winebottle010_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020316,2020316,Artisanal Bottle - VII,/assets/home_interior_props_winebottle008_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020317,2020317,Artisanal Bottle - VIII,/assets/home_interior_props_winebottle001_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020318,2020318,Artisanal Bottle - IX,/assets/home_interior_props_winebottle002_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020319,2020319,Artisanal Bottle - X,/assets/home_interior_props_winebottle005_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020320,2020320,Artisanal Bottle - XI,/assets/home_interior_props_winebottle006_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020321,2020321,Artisanal Bottle - XII,/assets/home_interior_props_winebottle007_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020322,2020322,Artisanal Bottle - XIII,/assets/home_interior_props_winebottle009_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020323,2020323,Purple Flower Cluster Plant,/assets/home_interior_props_bush001_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020324,2020324,Haystack Plant,/assets/home_outside_tingyuan_bush001_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020325,2020325,Flat-Leaf Plant,/assets/home_interior_props_plant013_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020327,2020327,Hanging Leaves,/assets/home_interior_props_menu001_a,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020328,2020328,Wall-Mounted Crimson Floral Cluster,/assets/home_interior_props_plant005_a,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020329,2020329,Blooming SeedFlourish,/assets/home_interior_props_pot003_a,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020330,2020330,Golden Cluster Plant,/assets/home_interior_props_plant012_a,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020331,2020331,Red Flower Cluster Plant,/assets/home_interior_props_plant014_a,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020332,2020332,Cattail-Leaf Plant,/assets/home_interior_props_plant016_a,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020333,2020333,Spirit-Leaf Plant,/assets/home_interior_props_plant011_a,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020334,2020334,Vintage Art Sconce,/assets/home_interior_lighting_walllamp005_a,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020339,2020339,Colorful Square-Tile Flooring,/assets/home_outside_tingyuan_floor002_a,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020340,2020340,Forgotten Sandpile I,/assets/home_outside_seawind_sandpile001_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020341,2020341,Forgotten Sandpile II,/assets/home_outside_seawind_sandpile002_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020342,2020342,Forgotten Sandpile III,/assets/home_outside_seawind_sandpile003_a,2,en,recipe,alchemy,2025-10-16,False
+recipe-2020343,2020343,A Touch of Green,/assets/home_interior_props_plant017_a,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020344,2020344,Verdant Grace of Vine,/assets/home_outside_tingyuan_greenplants001_a,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020345,2020345,Whispers of Vine,/assets/home_outside_tingyuan_greenplants002_a,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020346,2020346,Lush Bloom of Vine,/assets/home_outside_tingyuan_greenplants003_a,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020347,2020347,Dusky Drift of Vine,/assets/home_outside_tingyuan_greenplants004_a,3,en,recipe,alchemy,2025-10-16,False
+recipe-2020348,2020348,Corner of the Garden,/assets/home_outside_tingyuan_greenplants005_a,4,en,recipe,alchemy,2025-10-16,False
+recipe-2020349,2020349,Shaded in Green,/assets/home_outside_tingyuan_greenplants006_a,4,en,recipe,alchemy,2025-10-16,False
+recipe-2030001,2030001,Mystery Metal,/assets/item_icons_god_metal_01,2,en,recipe,smelting,2025-10-16,False
+recipe-2030002,2030002,Radiant Stone,/assets/item_icons_aluminium_01,2,en,recipe,smelting,2025-10-16,False
+recipe-2030003,2030003,Fine Forgestone,/assets/item_icons_god_metal_02,2,en,recipe,smelting,2025-10-16,False
+recipe-2030004,2030004,Buri Mech Shard,/assets/item_icons_equipment gems_01,2,en,recipe,smelting,2025-10-16,False
+recipe-2030006,2030006,Mystery Metal - Novice,/assets/item_icons_god_metal_01,2,en,recipe,smelting,2025-10-16,False
+recipe-2030007,2030007,Radiant Stone - Novice,/assets/item_icons_aluminium_01,2,en,recipe,smelting,2025-10-16,False
+recipe-2030008,2030008,Fine Forgestone - Novice,/assets/item_icons_god_metal_02,2,en,recipe,smelting,2025-10-16,False
+recipe-2030010,2030010,Mystery Metal - Master,/assets/item_icons_god_metal_01,2,en,recipe,smelting,2025-10-16,False
+recipe-2030011,2030011,Radiant Stone - Master,/assets/item_icons_aluminium_01,2,en,recipe,smelting,2025-10-16,False
+recipe-2030012,2030012,Fine Forgestone - Master,/assets/item_icons_god_metal_02,2,en,recipe,smelting,2025-10-16,False
+recipe-2030013,2030013,Buri Mech Shard - Master,/assets/item_icons_equipment gems_01,2,en,recipe,smelting,2025-10-16,False
+recipe-2030014,2030014,Mystery Metal- Pro,/assets/item_icons_god_metal_01,2,en,recipe,smelting,2025-10-16,False
+recipe-2030015,2030015,Radiant Stone - Master,/assets/item_icons_aluminium_01,2,en,recipe,smelting,2025-10-16,False
+recipe-2030016,2030016,Fine Forgestone - Master,/assets/item_icons_god_metal_02,2,en,recipe,smelting,2025-10-16,False
+recipe-2030017,2030017,Buri Mech Shard- Pro,/assets/item_icons_equipment gems_01,2,en,recipe,smelting,2025-10-16,False
+recipe-2030201,2030201,Pig Iron Ingot,/assets/item_icons_lifematerial_ore01_product02,1,en,recipe,smelting,2025-10-16,False
+recipe-2030202,2030202,Pig Iron Rivet*5,/assets/item_icons_lifematerial_ore01_product01,1,en,recipe,smelting,2025-10-16,False
+recipe-2030203,2030203,Brass Ingot,/assets/item_icons_lifematerial_metal_parts04,1,en,recipe,smelting,2025-10-16,False
+recipe-2030204,2030204,Brass Ring*4,/assets/item_icons_lifematerial_metal_parts06,1,en,recipe,smelting,2025-10-16,False
+recipe-2030205,2030205,Pig Iron Plate,/assets/item_icons_lifematerial_ore01_product03,1,en,recipe,smelting,2025-10-16,False
+recipe-2030206,2030206,Brass Plate,/assets/item_icons_lifematerial_metal_parts05,1,en,recipe,smelting,2025-10-16,False
+recipe-2030207,2030207,Bronze Ingot,/assets/item_icons_lifematerial_metal_parts01,1,en,recipe,smelting,2025-10-16,False
+recipe-2030208,2030208,Bronze Ring*4,/assets/item_icons_lifematerial_metal_parts03,1,en,recipe,smelting,2025-10-16,False
+recipe-2030209,2030209,Bronze Plate,/assets/item_icons_lifematerial_metal_parts02,1,en,recipe,smelting,2025-10-16,False
+recipe-2030210,2030210,Cobalt-Iron Ingot,/assets/item_icons_lifematerial_ore02_product02,2,en,recipe,smelting,2025-10-16,False
+recipe-2030211,2030211,Cobalt-Iron Ring*4,/assets/item_icons_lifematerial_ore02_product01,2,en,recipe,smelting,2025-10-16,False
+recipe-2030212,2030212,Cobalt-iron Plate,/assets/item_icons_lifematerial_ore02_product03,2,en,recipe,smelting,2025-10-16,False
+recipe-2030213,2030213,Lustrous Copper Ingot,/assets/item_icons_lifematerial_ore04_product02,2,en,recipe,smelting,2025-10-16,False
+recipe-2030214,2030214,Lustrous Copper Ring*4,/assets/item_icons_lifematerial_ore04_product01,2,en,recipe,smelting,2025-10-16,False
+recipe-2030215,2030215,Mithril Ingot,/assets/item_icons_lifematerial_ore07_product02,2,en,recipe,smelting,2025-10-16,False
+recipe-2030216,2030216,Lustrous Copper Plate,/assets/item_icons_lifematerial_ore04_product03,2,en,recipe,smelting,2025-10-16,False
+recipe-2030217,2030217,Mithril Ring*4,/assets/item_icons_lifematerial_ore07_product01,2,en,recipe,smelting,2025-10-16,False
+recipe-2030218,2030218,Mithril Plate,/assets/item_icons_lifematerial_ore07_product03,2,en,recipe,smelting,2025-10-16,False
+recipe-2030219,2030219,Mithril Alloy Ingot,/assets/item_icons_lifematerial_metal_parts07,3,en,recipe,smelting,2025-10-16,False
+recipe-2030220,2030220,Mithril Alloy Ring*4,/assets/item_icons_lifematerial_metal_parts09,3,en,recipe,smelting,2025-10-16,False
+recipe-2030221,2030221,Gleaming Gold Ingot,/assets/item_icons_lifematerial_ore08_product02,3,en,recipe,smelting,2025-10-16,False
+recipe-2030222,2030222,Mithril Alloy Plate,/assets/item_icons_lifematerial_metal_parts08,3,en,recipe,smelting,2025-10-16,False
+recipe-2030223,2030223,Gleaming Legendary Ring*4,/assets/item_icons_lifematerial_ore08_product01,3,en,recipe,smelting,2025-10-16,False
+recipe-2030224,2030224,Gleaming Gold Plate,/assets/item_icons_lifematerial_ore08_product03,3,en,recipe,smelting,2025-10-16,False
+recipe-2030301,2030301,Classical Wall Lamp,/assets/home_interior_lighting_walllamp001_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030302,2030302,Grid Window,/assets/home_interior_decoration_window001_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030303,2030303,Lantern,/assets/home_outside_beach_lanthanum001_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030304,2030304,Bay Lounger,/assets/home_interior_furniture_bench001_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030305,2030305,Bay Bench,/assets/home_interior_furniture_bench002_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030306,2030306,Bronze Dome Sconce,/assets/home_interior_lighting_walllamp003_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030307,2030307,Triple Pendant Light,/assets/home_interior_lighting_pendentlamp001_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030308,2030308,Triple Floor Light,/assets/home_interior_lighting_light002_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030309,2030309,Cabinet,/assets/home_interior_decoration_window002_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030310,2030310,Metal-Framed Table,/assets/home_interior_props_table001_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030311,2030311,Iron Round Column (Short),/assets/home_interior_wallhanging_pillariron002_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030312,2030312,Wrought Iron Square Column (Long),/assets/home_interior_wallhanging_pillariron003_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030313,2030313,Wall Spotlight,/assets/home_interior_lighting_spotlight001_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030314,2030314,Iron Round Column,/assets/home_interior_wallhanging_pillariron001_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030315,2030315,Round Wall Spotlight,/assets/home_interior_lighting_spotlight002_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030316,2030316,Pointed Pendant,/assets/home_interior_lighting_pendentlamp004_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030317,2030317,Ethereal Lantern,/assets/home_interior_lighting_pendentlamp002_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030318,2030318,Spotlight - Dazzle,/assets/home_interior_lighting_light003_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030319,2030319,Street Light Post,/assets/home_interior_lighting_light004_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030320,2030320,Tubular Floor Lamp,/assets/home_interior_lighting_light001_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030321,2030321,Multi-Section Sconce,/assets/home_interior_lighting_walllamp002_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030322,2030322,Four-Leaf Phantom Shield,/assets/home_interior_props_decoration005_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030326,2030326,Metal Sheet Pendant,/assets/home_interior_lighting_pendentlamp003_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030327,2030327,Key Sculpture,/assets/home_interior_props_key001_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030328,2030328,Metal Rack (Short),/assets/home_interior_wallhanging_metalshelf002_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030329,2030329,Metal Rack (Long),/assets/home_interior_wallhanging_metalshelf001_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030330,2030330,Metal Plate (Short),/assets/home_interior_wallhanging_metalboard002_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030331,2030331,Metal Plate (Long),/assets/home_interior_wallhanging_metalboard001_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030332,2030332,Metal Triangle Panels,/assets/home_interior_wallhanging_metalboard003_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030333,2030333,Dual-Head Floor Lamp,/assets/home_furniture_decoration_light01,3,en,recipe,smelting,2025-10-16,False
+recipe-2030334,2030334,Floor-to-Ceiling - II,/assets/home_interior_decoration_window005_a,4,en,recipe,smelting,2025-10-16,False
+recipe-2030335,2030335,Floor-to-Ceiling - III,/assets/home_interior_decoration_window006_a,4,en,recipe,smelting,2025-10-16,False
+recipe-2030336,2030336,Floor-to-Ceiling - IV,/assets/home_interior_decoration_window007_a,4,en,recipe,smelting,2025-10-16,False
+recipe-2030337,2030337,Floor-to-Ceiling - I,/assets/home_interior_decoration_window008_a,4,en,recipe,smelting,2025-10-16,False
+recipe-2030338,2030338,Utilitarian - Forging,/assets/home_interior_props_tool002_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030339,2030339,Utilitarian - Heavy Work,/assets/home_interior_props_tool003_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030340,2030340,Utilitarian - Hammering,/assets/home_interior_props_tool004_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030341,2030341,Utilitarian - Forgework,/assets/home_interior_props_tool005_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030342,2030342,Utilitarian - Precise Tong,/assets/home_interior_props_tool006_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030343,2030343,Utilitarian - Grip Tong,/assets/home_interior_props_tool007_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030344,2030344,Utilitarian - Tempered Tong,/assets/home_interior_props_tool008_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030345,2030345,Utilitarian - Metal Tong,/assets/home_interior_props_tool009_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030346,2030346,Utilitarian - Cutting,/assets/home_interior_props_tool0010_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030347,2030347,Utilitarian - Construction,/assets/home_interior_props_tool0011_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030348,2030348,Utilitarian - Refining,/assets/home_interior_props_tool0012_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030349,2030349,Utilitarian - Assembly,/assets/home_interior_props_tool0013_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030350,2030350,Utilitarian - Reconstruction,/assets/home_interior_props_tool0014_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030351,2030351,Utilitarian - Craft Hammer,/assets/home_interior_props_tool0015_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030352,2030352,Utilitarian - Artisan's Touch,/assets/home_interior_props_tool0016_a,2,en,recipe,smelting,2025-10-16,False
+recipe-2030353,2030353,Entangled Thoughts,/assets/home_interior_decoration_fence007_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030354,2030354,Vintage Extension Ladder,/assets/home_interior_decoration_stair006_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2030355,2030355,Curved Lines,/assets/home_interior_decoration_fence008_a,3,en,recipe,smelting,2025-10-16,False
+recipe-2031001,2031001,Wane Warhelm,/assets/headwear_icon_f_lightarmour02,3,en,recipe,smelting,2025-10-16,False
+recipe-2031002,2031002,Wane Warboots,/assets/shoes_icon_m_lightarmour02,3,en,recipe,smelting,2025-10-16,False
+recipe-2031003,2031003,Wane Gauntlets,/assets/gloves_icon_m_lightarmour02,3,en,recipe,smelting,2025-10-16,False
+recipe-2031004,2031004,Divine Shield - Protector,/assets/ch_wp_farfara_02_01,3,en,recipe,smelting,2025-10-16,False
+recipe-2031005,2031005,Shattering Sword,/assets/ch_wp_comeau_02_01,3,en,recipe,smelting,2025-10-16,False
+recipe-2031006,2031006,Zephyr Lance - Assault,/assets/ch_wp_tina_02_01,3,en,recipe,smelting,2025-10-16,False
+recipe-2031007,2031007,Stormblade Tachi - Novice,/assets/ch_wp_olvera_02_01,3,en,recipe,smelting,2025-10-16,False
+recipe-2031008,2031008,Wane Chainmail,/assets/clothes_icon_m_lightarmour02,3,en,recipe,smelting,2025-10-16,False
+recipe-2031009,2031009,Wane Warhelm,/assets/headwear_icon_c_lightarmour02a,4,en,recipe,smelting,2025-10-16,False
+recipe-2031010,2031010,Wane Warboots,/assets/shoes_icon_m_lightarmour02a,4,en,recipe,smelting,2025-10-16,False
+recipe-2031011,2031011,Divine Shield,/assets/ch_wp_farfara_02_01,4,en,recipe,smelting,2025-10-16,False
+recipe-2031012,2031012,Shatterblade,/assets/ch_wp_comeau_02_01,4,en,recipe,smelting,2025-10-16,False
+recipe-2031013,2031013,Wane Gauntlets,/assets/gloves_icon_m_lightarmour02a,4,en,recipe,smelting,2025-10-16,False
+recipe-2031014,2031014,Zephyr Spear,/assets/ch_wp_tina_02_01,4,en,recipe,smelting,2025-10-16,False
+recipe-2031015,2031015,Stormblade Tachi,/assets/ch_wp_olvera_02_01,4,en,recipe,smelting,2025-10-16,False
+recipe-2031016,2031016,Wane Chainmail,/assets/clothes_icon_m_lightarmour02a,4,en,recipe,smelting,2025-10-16,False
+recipe-2031017,2031017,Wane Warhelm,/assets/headwear_icon_f_lightarmour02,3,en,recipe,smelting,2025-10-16,False
+recipe-2031018,2031018,Wane Sabatons,/assets/shoes_icon_m_lightarmour02,3,en,recipe,smelting,2025-10-16,False
+recipe-2031019,2031019,Wane Armguards,/assets/gloves_icon_m_lightarmour02,3,en,recipe,smelting,2025-10-16,False
+recipe-2031020,2031020,Glory Aeg- Order,/assets/ch_wp_farfara_02_01,3,en,recipe,smelting,2025-10-16,False
+recipe-2031021,2031021,Glory Edge - Conquest,/assets/ch_wp_comeau_02_01,3,en,recipe,smelting,2025-10-16,False
+recipe-2031022,2031022,Tethered Lance - Vanguard,/assets/ch_wp_tina_02_01,3,en,recipe,smelting,2025-10-16,False
+recipe-2031023,2031023,Glory Blade - Edge,/assets/ch_wp_olvera_02_01,3,en,recipe,smelting,2025-10-16,False
+recipe-2031024,2031024,Wane Plate,/assets/clothes_icon_m_lightarmour02,3,en,recipe,smelting,2025-10-16,False
+recipe-2031025,2031025,Wane Warhelm,/assets/headwear_icon_c_lightarmour02a,4,en,recipe,smelting,2025-10-16,False
+recipe-2031026,2031026,Wane Sabatons,/assets/shoes_icon_m_lightarmour02a,4,en,recipe,smelting,2025-10-16,False
+recipe-2031027,2031027,Glory Aegis,/assets/ch_wp_farfara_02_01,4,en,recipe,smelting,2025-10-16,False
+recipe-2031028,2031028,Glory Edge,/assets/ch_wp_comeau_02_01,4,en,recipe,smelting,2025-10-16,False
+recipe-2031029,2031029,Wane Armguards,/assets/gloves_icon_m_lightarmour02a,4,en,recipe,smelting,2025-10-16,False
+recipe-2031030,2031030,Tethered Lance,/assets/ch_wp_tina_02_01,4,en,recipe,smelting,2025-10-16,False
+recipe-2031031,2031031,Glory Blade,/assets/ch_wp_olvera_02_01,4,en,recipe,smelting,2025-10-16,False
+recipe-2031032,2031032,Wane Plate,/assets/clothes_icon_m_lightarmour02a,4,en,recipe,smelting,2025-10-16,False
+recipe-2031033,2031033,Wane Facehelm,/assets/headwear_icon_f_lightarmour02,3,en,recipe,smelting,2025-10-16,False
+recipe-2031034,2031034,Wane Legplates,/assets/shoes_icon_m_lightarmour02,3,en,recipe,smelting,2025-10-16,False
+recipe-2031035,2031035,Wane Armguards,/assets/gloves_icon_m_lightarmour02,3,en,recipe,smelting,2025-10-16,False
+recipe-2031036,2031036,Sacred Legacy - Judgment,/assets/ch_wp_farfara_02_01,3,en,recipe,smelting,2025-10-16,False
+recipe-2031037,2031037,Mountain Cleaver - Command,/assets/ch_wp_comeau_02_01,3,en,recipe,smelting,2025-10-16,False
+recipe-2031038,2031038,Eclipse Lance - Lionheart,/assets/ch_wp_tina_02_01,3,en,recipe,smelting,2025-10-16,False
+recipe-2031039,2031039,Thunder Blade - Anatta,/assets/ch_wp_olvera_02_01,3,en,recipe,smelting,2025-10-16,False
+recipe-2031040,2031040,Wane Greatplate,/assets/clothes_icon_m_lightarmour02,3,en,recipe,smelting,2025-10-16,False
+recipe-2031041,2031041,Wane Facehelm,/assets/headwear_icon_c_lightarmour02a,4,en,recipe,smelting,2025-10-16,False
+recipe-2031042,2031042,Wane Legplates,/assets/shoes_icon_m_lightarmour02a,4,en,recipe,smelting,2025-10-16,False
+recipe-2031043,2031043,Sacred Legacy,/assets/ch_wp_farfara_02_01,4,en,recipe,smelting,2025-10-16,False
+recipe-2031044,2031044,Mountain Cleaver,/assets/ch_wp_comeau_02_01,4,en,recipe,smelting,2025-10-16,False
+recipe-2031045,2031045,Wane Armguards,/assets/gloves_icon_m_lightarmour02a,4,en,recipe,smelting,2025-10-16,False
+recipe-2031046,2031046,Eclipse Lance,/assets/ch_wp_tina_02_01,4,en,recipe,smelting,2025-10-16,False
+recipe-2031047,2031047,Thunder Blade,/assets/ch_wp_olvera_02_01,4,en,recipe,smelting,2025-10-16,False
+recipe-2031048,2031048,Wane Greatplate,/assets/clothes_icon_m_lightarmour02a,4,en,recipe,smelting,2025-10-16,False
+recipe-2040001,2040001,Ruby,/assets/red_crystal_stone_basic,1,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040002,2040002,Sapphire,/assets/blue_crystal_stone_basic,1,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040003,2040003,Emerald,/assets/green_crystal_stone_basic,1,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040004,2040004,Diamond,/assets/yellow_crystal_stone_basic,1,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040009,2040009,Ruby - Power 3,/assets/red_crystal_stone_triangle_2,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040010,2040010,Ruby - Bulwark 3,/assets/red_crystal_stone_square_2,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040011,2040011,Ruby - Agility 3,/assets/red_crystal_stone_special_2,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040012,2040012,Ruby - Abyss 3,/assets/red_crystal_stone_pear_2,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040017,2040017,Ruby - Power 5,/assets/red_crystal_stone_triangle_4,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040018,2040018,Ruby - Bulwark 5,/assets/red_crystal_stone_square_4,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040019,2040019,Ruby - Agility 5,/assets/red_crystal_stone_special_4,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040020,2040020,Ruby - Abyss 5,/assets/red_crystal_stone_pear_4,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040025,2040025,Sapphire - Power 3,/assets/blue_crystal_stone_triangle_2,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040026,2040026,Sapphire - Bulwark 3,/assets/blue_crystal_stone_square_2,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040027,2040027,Sapphire - Agility 3,/assets/blue_crystal_stone_special_2,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040028,2040028,Sapphire - Abyss 3,/assets/blue_crystal_stone_pear_2,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040033,2040033,Sapphire - Power 5,/assets/blue_crystal_stone_triangle_4,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040034,2040034,Sapphire - Bulwark 5,/assets/blue_crystal_stone_square_4,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040035,2040035,Sapphire - Agility 5,/assets/blue_crystal_stone_special_4,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040036,2040036,Sapphire - Abyss 5,/assets/blue_crystal_stone_pear_4,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040041,2040041,Emerald - Power 3,/assets/green_crystal_stone_triangle_2,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040042,2040042,Emerald - Bulwark 3,/assets/green_crystal_stone_square_2,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040043,2040043,Emerald - Agility 3,/assets/green_crystal_stone_special_2,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040044,2040044,Emerald - Abyss 3,/assets/green_crystal_stone_pear_2,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040049,2040049,Emerald - Power 5,/assets/green_crystal_stone_triangle_4,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040050,2040050,Emerald - Bulwark 5,/assets/green_crystal_stone_square_4,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040051,2040051,Emerald - Agility 5,/assets/green_crystal_stone_special_4,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040052,2040052,Emerald - Abyss 5,/assets/green_crystal_stone_pear_4,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040057,2040057,Diamond - Power 3,/assets/yellow_crystal_stone_triangle_2,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040058,2040058,Diamond - Bulwark 3,/assets/yellow_crystal_stone_square_2,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040059,2040059,Diamond - Agility 3,/assets/yellow_crystal_stone_special_2,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040060,2040060,Diamond - Abyss 3,/assets/yellow_crystal_stone_pear_2,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040065,2040065,Diamond - Power 5,/assets/yellow_crystal_stone_triangle_4,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040066,2040066,Diamond - Bulwark 5,/assets/yellow_crystal_stone_square_4,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040067,2040067,Diamond - Agility 5,/assets/yellow_crystal_stone_special_4,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040068,2040068,Diamond - Abyss 5,/assets/yellow_crystal_stone_pear_4,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040201,2040201,Sandstone Polishers,/assets/item_icons_lifematerial_stone21_product03,1,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040202,2040202,Quartz Sand,/assets/item_icons_lifematerial_stone02_product01,1,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040203,2040203,Cut Stone,/assets/item_icons_lifematerial_stone21_product01,1,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040204,2040204,Sapphire,/assets/item_icons_lifematerial_stone03_product01,1,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040205,2040205,Ruby,/assets/item_icons_lifematerial_stone04_product01,1,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040206,2040206,Topaz,/assets/item_icons_lifematerial_stone05_product01,1,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040207,2040207,Emerald,/assets/item_icons_lifematerial_stone06_product01,1,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040208,2040208,Stone Slab,/assets/item_icons_lifematerial_stone23_product02,1,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040209,2040209,Rough Paper,/assets/item_icons_lifematerial_paper01,1,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040210,2040210,Shale Polishing Stone,/assets/item_icons_lifematerial_stone22_product03,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040211,2040211,Shale Cut Stone,/assets/item_icons_lifematerial_stone21_product02,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040212,2040212,Red Agate,/assets/item_icons_lifematerial_stone07_product01,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040213,2040213,Titanite,/assets/item_icons_lifematerial_stone09_product01,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040214,2040214,Azure Stone,/assets/item_icons_lifematerial_stone11_product01,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040215,2040215,Peridot,/assets/item_icons_lifematerial_stone10_product01,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040216,2040216,Sunstone,/assets/item_icons_lifematerial_stone08_product01,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040217,2040217,Spodumene,/assets/item_icons_lifematerial_stone12_product01,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040218,2040218,Durable Paper,/assets/item_icons_lifematerial_paper02,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040219,2040219,Shale Plate,/assets/item_icons_lifematerial_stone22_product01,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040220,2040220,Granite Polishing Stone,/assets/item_icons_lifematerial_stone23_product03,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040221,2040221,Feldspar,/assets/item_icons_lifematerial_stone24_product01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040222,2040222,Mica,/assets/item_icons_lifematerial_stone25_product01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040223,2040223,Granite Cut Stone,/assets/item_icons_lifematerial_stone22_product02,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040224,2040224,Kilaueite,/assets/item_icons_lifematerial_stone14_product01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040225,2040225,Topaz,/assets/item_icons_lifematerial_stone16_product01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040226,2040226,Starburst Spar,/assets/item_icons_lifematerial_stone18_product01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040227,2040227,Cyan Bellstone,/assets/item_icons_lifematerial_stone17_product01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040228,2040228,Orange Spinel,/assets/item_icons_lifematerial_stone15_product01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040229,2040229,Aurora Stone,/assets/item_icons_lifematerial_stone19_product01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040230,2040230,Black Coral,/assets/item_icons_lifematerial_stone20_product01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040231,2040231,Granite Plate,/assets/item_icons_lifematerial_stone23_product01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040301,2040301,Alabaster Pillar - Thin,/assets/home_interior_decoration_pillar001_a,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040302,2040302,White Wall,/assets/home_interior_decoration_wall002_a,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040305,2040305,Bluestone Staircase - I,/assets/home_outside_tingyuan_stairs001_a,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040306,2040306,Bluestone Staircase - II,/assets/home_outside_tingyuan_stairs002_a,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040307,2040307,Moss-Covered Old Slate,/assets/home_outside_tingyuan_floor001_a,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040309,2040309,Alabaster Pillar - Thick,/assets/home_interior_decoration_pillar002_a,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040310,2040310,Double-Ring Tray,/assets/home_interior_props_decoration004_a,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040311,2040311,Eave-Mounted Light,/assets/home_interior_lighting_walllamp004_a,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040312,2040312,Gray Textured Stone Planter,/assets/home_interior_props_pot005_a,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040313,2040313,White Wall with Trim,/assets/home_interior_decoration_wall001_a,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040314,2040314,Mithril Goblet,/assets/home_interior_props_cup001_a,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040315,2040315,Mithril Open Cup,/assets/home_interior_props_cup002_a,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040316,2040316,Wall with Window,/assets/home_interior_decoration_wall007_a,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040317,2040317,Garden Leisure Rocker,/assets/home_outside_beach_chair001_a,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040321,2040321,Vintage Chandelier,/assets/home_furniture_decoration_light02,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040322,2040322,Unknown Taste,/assets/home_interior_props_sulfurcrystal001_a,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040326,2040326,Firefly Chandelier,/assets/home_furniture_decoration_light03,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040327,2040327,Checkered Fireplace,/assets/home_interior_furniture_fireplace01_a,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040328,2040328,Noisy Balloons,/assets/home_outside_seawind_balloon001_a,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040329,2040329,Orange Floatie,/assets/home_outside_seawind_float001_a,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040330,2040330,Wave Floatie,/assets/home_outside_seawind_float002_a,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040331,2040331,Coconut Floatie,/assets/home_outside_seawind_float003_a,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040332,2040332,Fiery Floatie,/assets/home_outside_seawind_float004_a,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040333,2040333,Cooling Floatie,/assets/home_outside_seawind_float005_a,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040334,2040334,Beach Volleyball - Summer,/assets/home_outside_seawind_beachball001_a,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040335,2040335,Beach Volleyball - Vivid,/assets/home_outside_seawind_beachball002_a,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2040336,2040336,Beach Volleyball - Wave,/assets/home_outside_seawind_beachball003_a,2,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041001,2041001,Wane Crimson Earrings,/assets/ears_icon_f_fangxing01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041002,2041002,Wane Emerald Earrings,/assets/ears_icon_f_fangxing02,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041003,2041003,Wane Zircon Earrings,/assets/ears_icon_f_fangxing03,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041004,2041004,Wane Crimson Bracelet (L),/assets/c_equip_icon_wristbandr01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041005,2041005,Wane Emerald Bracelet (L),/assets/c_equip_icon_wristbandr03,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041006,2041006,Wane Zircon Bracelet (L),/assets/c_equip_icon_wristbandr02,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041007,2041007,Wane Crimson Ring,/assets/ring_icon_m_fangxing01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041008,2041008,Wane Emerald Ring,/assets/ring_icon_m_fangxing02,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041009,2041009,Wane Zircon Ring,/assets/ring_icon_f_fangxing03,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041010,2041010,Wane Crimson Righttband,/assets/c_equip_icon_wristbandl01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041011,2041011,Wane Emerald Bracelet (R),/assets/c_equip_icon_wristbandl03,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041012,2041012,Wane Zircon Bracelet (R),/assets/c_equip_icon_wristbandl02,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041013,2041013,Wane Crimson Necklace,/assets/neck_icon_m_fangxing01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041014,2041014,Wane Emerald Necklace,/assets/neck_icon_m_fangxing02,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041015,2041015,Wane Zircon Necklace,/assets/neck_icon_m_fangxing03,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041016,2041016,Wane Crimson Earrings,/assets/ears_icon_f_fangxing01,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041017,2041017,Wane Emerald Earrings,/assets/ears_icon_f_fangxing02,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041018,2041018,Wane Zircon Earrings,/assets/ears_icon_f_fangxing03,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041019,2041019,Wane Crimson Bracelet (L),/assets/c_equip_icon_wristbandr01,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041020,2041020,Wane Emerald Bracelet (L),/assets/c_equip_icon_wristbandr03,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041021,2041021,Wane Zircon Bracelet (L),/assets/c_equip_icon_wristbandr02,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041022,2041022,Wane Crimson Ring,/assets/ring_icon_m_fangxing01,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041023,2041023,Wane Emerald Ring,/assets/ring_icon_m_fangxing02,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041024,2041024,Wane Zircon Ring,/assets/ring_icon_f_fangxing03,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041025,2041025,Wane Crimson Bracelet (R),/assets/c_equip_icon_wristbandl01,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041026,2041026,Wane Emerald Bracelet (R),/assets/c_equip_icon_wristbandl03,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041027,2041027,Wane Zircon Bracelet (R),/assets/c_equip_icon_wristbandl02,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041028,2041028,Wane Crimson Necklace,/assets/neck_icon_m_fangxing01,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041029,2041029,Wane Emerald Necklace,/assets/neck_icon_m_fangxing02,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041030,2041030,Wane Zircon Necklace,/assets/neck_icon_m_fangxing03,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041031,2041031,Wane Ruby Earrings,/assets/ears_icon_f_fangxing01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041032,2041032,Wane Jade Earrings,/assets/ears_icon_f_fangxing02,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041033,2041033,Wane Diamond Earrings,/assets/ears_icon_f_fangxing03,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041034,2041034,Wane Ruby Bracelet (L),/assets/c_equip_icon_wristbandr01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041035,2041035,Wane Jade Bracelet (L),/assets/c_equip_icon_wristbandr03,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041036,2041036,Wane Diamond Bracelet (L),/assets/c_equip_icon_wristbandr02,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041037,2041037,Wane Ruby Ring,/assets/ring_icon_m_fangxing01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041038,2041038,Wane Jade Ring,/assets/ring_icon_m_fangxing02,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041039,2041039,Wane Diamond Ring,/assets/ring_icon_f_fangxing03,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041040,2041040,Wane Ruby Bracelet (R),/assets/c_equip_icon_wristbandl01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041041,2041041,Wane Jade Bracelet (R),/assets/c_equip_icon_wristbandl03,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041042,2041042,Wane Diamond Bracelet (R),/assets/c_equip_icon_wristbandl02,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041043,2041043,Wane Ruby Necklace,/assets/neck_icon_m_fangxing01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041044,2041044,Wane Jade Necklace,/assets/neck_icon_m_fangxing02,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041045,2041045,Wane Diamond Necklace,/assets/neck_icon_m_fangxing03,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041046,2041046,Wane Ruby Earrings,/assets/ears_icon_f_fangxing01,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041047,2041047,Wane Jade Earrings,/assets/ears_icon_f_fangxing02,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041048,2041048,Wane Diamond Earrings,/assets/ears_icon_f_fangxing03,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041049,2041049,Wane Ruby Bracelet (L),/assets/c_equip_icon_wristbandr01,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041050,2041050,Wane Jade Bracelet (L),/assets/c_equip_icon_wristbandr03,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041051,2041051,Wane Diamond Bracelet (L),/assets/c_equip_icon_wristbandr02,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041052,2041052,Wane Ruby Ring,/assets/ring_icon_m_fangxing01,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041053,2041053,Wane Jade Ring,/assets/ring_icon_m_fangxing02,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041054,2041054,Wane Diamond Ring,/assets/ring_icon_f_fangxing03,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041055,2041055,Wane Ruby Bracelet (R),/assets/c_equip_icon_wristbandl01,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041056,2041056,Wane Jade Bracelet (R),/assets/c_equip_icon_wristbandl03,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041057,2041057,Wane Diamond Bracelet (R),/assets/c_equip_icon_wristbandl02,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041058,2041058,Wane Ruby Necklace,/assets/neck_icon_m_fangxing01,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041059,2041059,Wane Jade Necklace,/assets/neck_icon_m_fangxing02,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041060,2041060,Wane Diamond Necklace,/assets/neck_icon_m_fangxing03,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041061,2041061,Wane Solar Earrings,/assets/ears_icon_f_fangxing01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041062,2041062,Wane Jasper Earrings,/assets/ears_icon_f_fangxing02,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041063,2041063,Wane Star Earrings,/assets/ears_icon_f_fangxing03,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041064,2041064,Wane Solar Bracelet (L),/assets/c_equip_icon_wristbandr01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041065,2041065,Wane Jasper Bracelet (L),/assets/c_equip_icon_wristbandr03,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041066,2041066,Wane Star Bracelet (L),/assets/c_equip_icon_wristbandr02,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041067,2041067,Wane Solar Ring,/assets/ring_icon_m_fangxing01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041068,2041068,Wane Jasper Ring,/assets/ring_icon_m_fangxing02,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041069,2041069,Wane Star Ring,/assets/ring_icon_f_fangxing03,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041070,2041070,Wane Solar Bracelet (R),/assets/c_equip_icon_wristbandl01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041071,2041071,Wane Jasper Bracelet (R),/assets/c_equip_icon_wristbandl03,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041072,2041072,Wane Star Bracelet (R),/assets/c_equip_icon_wristbandl02,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041073,2041073,Wane Solar Necklace,/assets/neck_icon_m_fangxing01,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041074,2041074,Wane Jasper Necklace,/assets/neck_icon_m_fangxing02,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041075,2041075,Wane Star Necklace,/assets/neck_icon_m_fangxing03,3,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041076,2041076,Wane Solar Earrings,/assets/ears_icon_f_fangxing01,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041077,2041077,Wane Jasper Earrings,/assets/ears_icon_f_fangxing02,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041078,2041078,Wane Star Earrings,/assets/ears_icon_f_fangxing03,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041079,2041079,Wane Solar Bracelet (L),/assets/c_equip_icon_wristbandr01,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041080,2041080,Wane Jasper Bracelet (L),/assets/c_equip_icon_wristbandr03,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041081,2041081,Wane Star Bracelet (L),/assets/c_equip_icon_wristbandr02,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041082,2041082,Wane Solar Ring,/assets/ring_icon_m_fangxing01,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041083,2041083,Wane Jasper Ring,/assets/ring_icon_m_fangxing02,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041084,2041084,Wane Star Ring,/assets/ring_icon_f_fangxing03,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041085,2041085,Wane Solar Bracelet (R),/assets/c_equip_icon_wristbandl01,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041086,2041086,Wane Jasper Bracelet (R),/assets/c_equip_icon_wristbandl03,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041087,2041087,Wane Star Bracelet (R),/assets/c_equip_icon_wristbandl02,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041088,2041088,Wane Solar Necklace,/assets/neck_icon_m_fangxing01,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041089,2041089,Wane Jasper Necklace,/assets/neck_icon_m_fangxing02,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2041090,2041090,Wane Star Necklace,/assets/neck_icon_m_fangxing03,4,en,recipe,gemcrafting,2025-10-16,False
+recipe-2050001,2050001,Burning Powder*15,/assets/item_icons_lifematerial_carbon_powder_01,1,en,recipe,artisanry,2025-10-16,False
+recipe-2050002,2050002,Fast Burning Powder*3,/assets/item_icons_lifematerial_carbon_powder_03,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050003,2050003,Gem Wax*15,/assets/item_icons_lifematerial_gem_wax_01,1,en,recipe,artisanry,2025-10-16,False
+recipe-2050201,2050201,Charcoal*10,/assets/item_icons_lifematerial_charcoal01,0,en,recipe,artisanry,2025-10-16,False
+recipe-2050202,2050202,Pine Lumber,/assets/item_icons_lifematerial_log01_product01,1,en,recipe,artisanry,2025-10-16,False
+recipe-2050203,2050203,Beech Lumber,/assets/item_icons_lifematerial_log02_product01,1,en,recipe,artisanry,2025-10-16,False
+recipe-2050204,2050204,Oak Lumber,/assets/item_icons_lifematerial_log03_product01,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050205,2050205,Birch Lumber,/assets/item_icons_lifematerial_log04_product01,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050206,2050206,Walnut Lumber,/assets/item_icons_lifematerial_log05_product01,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050207,2050207,White Oak Lumber,/assets/item_icons_lifematerial_log06_product01,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050301,2050301,Wooden Table,/assets/home_interior_furniture_table002_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050302,2050302,Wooden Material Crate,/assets/home_interior_props_box004_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050304,2050304,Large Stake Stool,/assets/home_outside_tingyuan_woodbench001_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050305,2050305,Small Stake Stool,/assets/home_outside_tingyuan_woodbench002_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050306,2050306,Horizontal Aged Timber Pier,/assets/home_outside_tingyuan_woodbench003_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050307,2050307,Old Dock Wooden Crate,/assets/home_outside_tingyuan_marketcase001_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050308,2050308,Stacked Wooden Boards,/assets/home_outside_tingyuan_plank001_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050309,2050309,Elegant Oak Table,/assets/home_interior_furniture_table006_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050310,2050310,Quaint Crate,/assets/home_interior_props_woodbox005_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050311,2050311,Corner Wall Panel,/assets/home_interior_decoration_wall003_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050312,2050312,Classical Hanging Lamp,/assets/home_outside_tingyuan_streelight001_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050313,2050313,Double Decker,/assets/home_interior_furniture_bed002_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050315,2050315,Retro Arch,/assets/home_interior_decoration_door003_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050316,2050316,Cloud Rest Shelf,/assets/home_interior_furniture_showcase002_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050317,2050317,Double-Layer Storage Rack,/assets/home_interior_props_rack001_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050319,2050319,Iron Barrel,/assets/home_interior_props_barrel004_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050320,2050320,Oak Aging Barrel,/assets/home_interior_props_barrel002_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050321,2050321,Oak Storage Barrel,/assets/home_interior_props_barrel001_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050322,2050322,Sleek Round Stool,/assets/home_interior_furniture_chair004_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050323,2050323,Seaside Aging Barrel,/assets/home_interior_props_barrel003_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050324,2050324,Iron-Wood Side Table,/assets/home_interior_furniture_table004_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050325,2050325,Seaside Sleeper,/assets/home_interior_furniture_bed001_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050327,2050327,Oak Tray,/assets/home_interior_props_box003_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050328,2050328,Wooden Square Column (Short),/assets/home_interior_wallhanging_pillarwood002_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050329,2050329,Round Log Column,/assets/home_interior_wallhanging_pillarwood003_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050330,2050330,Ethereal Wind Wooden Counter,/assets/home_interior_furniture_counter007_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050331,2050331,Round Log Column,/assets/home_interior_wallhanging_pillarwood001_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050332,2050332,Seaside Round Table,/assets/home_interior_furniture_table007_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050333,2050333,Seaside Wooden Table,/assets/home_interior_furniture_table003_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050334,2050334,Single Ladder,/assets/home_interior_decoration_stair002_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050335,2050335,Beach Lounger,/assets/home_outside_beach_chair002_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050337,2050337,Seaside Dining Set,/assets/home_interior_furniture_table001_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050343,2050343,Seaside Wooden Steps,/assets/home_interior_decoration_stair001_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050347,2050347,Iron-Wood Large Round Table,/assets/home_interior_furniture_table008_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050348,2050348,Walnut Coffee Table,/assets/home_interior_furniture_table005_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050349,2050349,Retro Long Storage Cabinet,/assets/home_interior_furniture_counter008_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050350,2050350,Wooden Short Rack,/assets/home_interior_wallhanging_woodshelf002_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050351,2050351,Four-Section Storage,/assets/home_interior_furniture_counter004_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050353,2050353,Wooden Long Rack,/assets/home_interior_wallhanging_woodshelf001_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050354,2050354,Wooden Storage Boards (Short),/assets/home_interior_wallhanging_woodboard002_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050355,2050355,Five-Section Storage,/assets/home_interior_furniture_counter005_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050356,2050356,Classic Locker,/assets/home_interior_furniture_counter009_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050357,2050357,Wooden Storage Boards,/assets/home_interior_wallhanging_woodboard001_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050358,2050358,Wooden Triangle Board,/assets/home_interior_wallhanging_woodboard003_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050361,2050361,Curved Beams,/assets/home_interior_props_counter001_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050362,2050362,Multi-Section Right Cabinet,/assets/home_interior_furniture_counter001_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050363,2050363,Multi-Section Left Cabinet,/assets/home_interior_furniture_counter002_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050364,2050364,Multi-Section Double Cabinet,/assets/home_interior_furniture_counter003_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050370,2050370,Cube Combination Cabinet,/assets/home_interior_furniture_legocabinet01_a,4,en,recipe,artisanry,2025-10-16,False
+recipe-2050371,2050371,Cube Single-Unit Cabinet,/assets/home_interior_furniture_legocabinet01_b,4,en,recipe,artisanry,2025-10-16,False
+recipe-2050372,2050372,Shutters,/assets/home_interior_decoration_window003_a,4,en,recipe,artisanry,2025-10-16,False
+recipe-2050373,2050373,Double-Hung Shutters,/assets/home_interior_decoration_window004_a,4,en,recipe,artisanry,2025-10-16,False
+recipe-2050374,2050374,Surfboard - Sunny Sea,/assets/home_outside_seawind_surfboard001_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050375,2050375,Surfboard - Swift Sail,/assets/home_outside_seawind_surfboard002_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050376,2050376,Surfboard - Glare,/assets/home_outside_seawind_surfboard003_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050377,2050377,Shelf of Thoughts,/assets/home_interior_furniture_shelf005_a,2,en,recipe,artisanry,2025-10-16,False
+recipe-2050378,2050378,Retro Arch,/assets/home_interior_decoration_door003_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050379,2050379,Elegant Lattice Screen,/assets/home_interior_decoration_fence001_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050380,2050380,Seaside Handrail,/assets/home_interior_decoration_fence005_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050381,2050381,Seaside Guardrail,/assets/home_interior_decoration_fence006_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050382,2050382,Chestnut Panel,/assets/home_interior_decoration_floor005_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050383,2050383,Seaside Wooden Steps,/assets/home_interior_decoration_stair001_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050384,2050384,Tranquil Woodgrain,/assets/home_interior_decoration_floor001_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050385,2050385,Elegant Woodgrain,/assets/home_interior_decoration_floor002_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050386,2050386,Brown Wooden Steps,/assets/home_interior_decoration_stair003_a,3,en,recipe,artisanry,2025-10-16,False
+recipe-2050387,2050387,Peaceful Contemplation,/assets/home_interior_furniture_housechair001_a,4,en,recipe,artisanry,2025-10-16,False
+recipe-2050388,2050388,Autumn Panel,/assets/home_interior_decoration_floor006_a,4,en,recipe,artisanry,2025-10-16,False
+recipe-2050389,2050389,Quaint Pillar,/assets/home_interior_decoration_pillar010_a,4,en,recipe,artisanry,2025-10-16,False
+recipe-2050390,2050390,Elegant Decorative Pillar,/assets/home_interior_decoration_pillar011_a,4,en,recipe,artisanry,2025-10-16,False
+recipe-2050391,2050391,Timber Beam,/assets/home_interior_decoration_pillar012_a,4,en,recipe,artisanry,2025-10-16,False
+recipe-2051001,2051001,Revival Ring - Healer,/assets/ch_wp_iruna_02_01,3,en,recipe,artisanry,2025-10-16,False
+recipe-2051002,2051002,Blazing Strings - Chant,/assets/ch_wp_guitar_02_01,3,en,recipe,artisanry,2025-10-16,False
+recipe-2051003,2051003,Everfrost Staff - Apprentice,/assets/ch_wp_boyce_02_01,3,en,recipe,artisanry,2025-10-16,False
+recipe-2051004,2051004,Luminous Longbow - Scout,/assets/ch_wp_rodri_02_01,3,en,recipe,artisanry,2025-10-16,False
+recipe-2051005,2051005,Revival Ring,/assets/ch_wp_iruna_02_01,4,en,recipe,artisanry,2025-10-16,False
+recipe-2051006,2051006,Scorching Septachord,/assets/ch_wp_guitar_02_01,4,en,recipe,artisanry,2025-10-16,False
+recipe-2051007,2051007,Everfrost Staff,/assets/ch_wp_boyce_02_01,4,en,recipe,artisanry,2025-10-16,False
+recipe-2051008,2051008,Luminous Longbow,/assets/ch_wp_rodri_02_01,4,en,recipe,artisanry,2025-10-16,False
+recipe-2051009,2051009,Glory Ring - Warden,/assets/ch_wp_iruna_02_01,3,en,recipe,artisanry,2025-10-16,False
+recipe-2051010,2051010,Thermal Arm - Harmo,/assets/ch_wp_guitar_02_01,3,en,recipe,artisanry,2025-10-16,False
+recipe-2051011,2051011,Glory Staff - Incantation,/assets/ch_wp_boyce_02_01,3,en,recipe,artisanry,2025-10-16,False
+recipe-2051012,2051012,Glory Bow - Ranger,/assets/ch_wp_rodri_02_01,3,en,recipe,artisanry,2025-10-16,False
+recipe-2051013,2051013,Glory Ring,/assets/ch_wp_iruna_02_01,4,en,recipe,artisanry,2025-10-16,False
+recipe-2051014,2051014,Thermal Arm,/assets/ch_wp_guitar_02_01,4,en,recipe,artisanry,2025-10-16,False
+recipe-2051015,2051015,Everice Staff,/assets/ch_wp_boyce_02_01,4,en,recipe,artisanry,2025-10-16,False
+recipe-2051016,2051016,Sunburst Longbow,/assets/ch_wp_rodri_02_01,4,en,recipe,artisanry,2025-10-16,False
+recipe-2051017,2051017,Eclipse Ring - Oracle,/assets/ch_wp_iruna_02_01,3,en,recipe,artisanry,2025-10-16,False
+recipe-2051018,2051018,Celestial Pyre - Severe,/assets/ch_wp_guitar_02_01,3,en,recipe,artisanry,2025-10-16,False
+recipe-2051019,2051019,Eclipse Staff - Magitech,/assets/ch_wp_boyce_02_01,3,en,recipe,artisanry,2025-10-16,False
+recipe-2051020,2051020,Jade Longbow - Breaker,/assets/ch_wp_rodri_02_01,3,en,recipe,artisanry,2025-10-16,False
+recipe-2051021,2051021,Eclipse Ring,/assets/ch_wp_iruna_02_01,4,en,recipe,artisanry,2025-10-16,False
+recipe-2051022,2051022,Pyre Oneiro,/assets/ch_wp_guitar_02_01,4,en,recipe,artisanry,2025-10-16,False
+recipe-2051023,2051023,Frozen Depths Staff,/assets/ch_wp_boyce_02_01,4,en,recipe,artisanry,2025-10-16,False
+recipe-2051024,2051024,Jade Longbow,/assets/ch_wp_rodri_02_01,4,en,recipe,artisanry,2025-10-16,False
+recipe-2060001,2060001,Red Dye,/assets/item_icons_red_dye_01,2,en,recipe,weaving,2025-10-16,False
+recipe-2060002,2060002,Orange Dye,/assets/item_icons_orange_dye_02,2,en,recipe,weaving,2025-10-16,False
+recipe-2060003,2060003,Yellow Dye,/assets/item_icons_yellow_dye_01,2,en,recipe,weaving,2025-10-16,False
+recipe-2060004,2060004,Green Dye,/assets/item_icons_green_dye_01,2,en,recipe,weaving,2025-10-16,False
+recipe-2060005,2060005,Cyan Dye,/assets/item_icons_cyan_dye_01,2,en,recipe,weaving,2025-10-16,False
+recipe-2060006,2060006,Blue Dye,/assets/item_icons_blue_dye_01,2,en,recipe,weaving,2025-10-16,False
+recipe-2060007,2060007,Purple Dye,/assets/item_icons_purple_dye_01,2,en,recipe,weaving,2025-10-16,False
+recipe-2060201,2060201,Refined Yarn*3,/assets/item_icons_lifematerial_thread01,1,en,recipe,weaving,2025-10-16,False
+recipe-2060202,2060202,Refined Cotton,/assets/item_icons_lifematerial_cotton_cloth01,1,en,recipe,weaving,2025-10-16,False
+recipe-2060203,2060203,Refined Canvas,/assets/item_icons_lifematerial_canvas01,1,en,recipe,weaving,2025-10-16,False
+recipe-2060204,2060204,Refined Flannel,/assets/item_icons_lifematerial_flannelette01,1,en,recipe,weaving,2025-10-16,False
+recipe-2060205,2060205,Refined Soft Leather,/assets/item_icons_lifematerial_soft_leather01,1,en,recipe,weaving,2025-10-16,False
+recipe-2060206,2060206,Refined Hard Leather,/assets/item_icons_lifematerial_hard_leather01,1,en,recipe,weaving,2025-10-16,False
+recipe-2060207,2060207,Hand-Spun Yarn*3,/assets/item_icons_lifematerial_thread02,1,en,recipe,weaving,2025-10-16,False
+recipe-2060208,2060208,Hand-Spun Cotton,/assets/item_icons_lifematerial_cotton_cloth02,1,en,recipe,weaving,2025-10-16,False
+recipe-2060209,2060209,Hand-Spun Canvas,/assets/item_icons_lifematerial_canvas02,1,en,recipe,weaving,2025-10-16,False
+recipe-2060210,2060210,Hand-Spun Flannel,/assets/item_icons_lifematerial_flannelette02,1,en,recipe,weaving,2025-10-16,False
+recipe-2060211,2060211,Hand-Spun Blended Fabric,/assets/item_icons_lifematerial_cotton_cloth02,1,en,recipe,weaving,2025-10-16,False
+recipe-2060212,2060212,Smooth Soft Leather,/assets/item_icons_lifematerial_soft_leather02,1,en,recipe,weaving,2025-10-16,False
+recipe-2060213,2060213,Smooth Hard Leather,/assets/item_icons_lifematerial_hard_leather02,1,en,recipe,weaving,2025-10-16,False
+recipe-2060214,2060214,Worsted Yarn*3,/assets/item_icons_lifematerial_thread03,2,en,recipe,weaving,2025-10-16,False
+recipe-2060215,2060215,Worsted Cotton Fabric,/assets/item_icons_lifematerial_cotton_cloth03,2,en,recipe,weaving,2025-10-16,False
+recipe-2060216,2060216,Worsted Canvas,/assets/item_icons_lifematerial_canvas03,2,en,recipe,weaving,2025-10-16,False
+recipe-2060217,2060217,Worsted Flannel,/assets/item_icons_lifematerial_flannelette03,2,en,recipe,weaving,2025-10-16,False
+recipe-2060218,2060218,Tough Soft Leather,/assets/item_icons_lifematerial_soft_leather03,2,en,recipe,weaving,2025-10-16,False
+recipe-2060219,2060219,Tough Hard Leather,/assets/item_icons_lifematerial_hard_leather03,2,en,recipe,weaving,2025-10-16,False
+recipe-2060220,2060220,Luxury Mulberry Silk*3,/assets/item_icons_lifematerial_thread04,2,en,recipe,weaving,2025-10-16,False
+recipe-2060221,2060221,Luxury Cotton Fabric,/assets/item_icons_lifematerial_cotton_cloth04,2,en,recipe,weaving,2025-10-16,False
+recipe-2060222,2060222,Luxury Canvas,/assets/item_icons_lifematerial_canvas04,2,en,recipe,weaving,2025-10-16,False
+recipe-2060223,2060223,Luxury Flannel,/assets/item_icons_lifematerial_flannelette04,2,en,recipe,weaving,2025-10-16,False
+recipe-2060224,2060224,Premier Soft Leather,/assets/item_icons_lifematerial_soft_leather04,2,en,recipe,weaving,2025-10-16,False
+recipe-2060225,2060225,Premier Hard Leather,/assets/item_icons_lifematerial_hard_leather04,2,en,recipe,weaving,2025-10-16,False
+recipe-2060301,2060301,Gunny Sack,/assets/home_interior_props_bag001_a,2,en,recipe,weaving,2025-10-16,False
+recipe-2060302,2060302,Wicker Basket,/assets/home_interior_props_basket001_a,2,en,recipe,weaving,2025-10-16,False
+recipe-2060303,2060303,Nautical Anchor Rug,/assets/home_interior_props_carpet012_a,2,en,recipe,weaving,2025-10-16,False
+recipe-2060304,2060304,Vintage Wicker Basket,/assets/home_interior_props_basket002_a,2,en,recipe,weaving,2025-10-16,False
+recipe-2060305,2060305,A Basket of Potatoes,/assets/home_interior_props_basket003_a,2,en,recipe,weaving,2025-10-16,False
+recipe-2060306,2060306,Rainbow Stripe Rug,/assets/home_interior_props_carpet010_a,2,en,recipe,weaving,2025-10-16,False
+recipe-2060307,2060307,Green Square Rug,/assets/home_interior_props_carpet005_a,2,en,recipe,weaving,2025-10-16,False
+recipe-2060308,2060308,Blue Square Rug,/assets/home_interior_props_carpet006_a,2,en,recipe,weaving,2025-10-16,False
+recipe-2060309,2060309,Red Square Rug,/assets/home_interior_props_carpet007_a,2,en,recipe,weaving,2025-10-16,False
+recipe-2060310,2060310,Red Runner,/assets/home_interior_props_carpet004_a,3,en,recipe,weaving,2025-10-16,False
+recipe-2060311,2060311,Beach Style Mat,/assets/home_outside_beach_blanket001_a,3,en,recipe,weaving,2025-10-16,False
+recipe-2060312,2060312,Door Curtain,/assets/home_interior_props_door001_a,3,en,recipe,weaving,2025-10-16,False
+recipe-2060313,2060313,Armchair,/assets/home_interior_furniture_chair001_a,3,en,recipe,weaving,2025-10-16,False
+recipe-2060314,2060314,Mandala Shadow,/assets/home_interior_props_carpet003_a,3,en,recipe,weaving,2025-10-16,False
+recipe-2060315,2060315,Brocade Carpet,/assets/home_interior_props_carpet008_a,3,en,recipe,weaving,2025-10-16,False
+recipe-2060316,2060316,Dreamweave Carpet,/assets/home_interior_props_carpet009_a,3,en,recipe,weaving,2025-10-16,False
+recipe-2060317,2060317,Soft Round Cushion,/assets/home_ground_carpet03,3,en,recipe,weaving,2025-10-16,False
+recipe-2060318,2060318,Color-Arc Blanket,/assets/home_ground_carpet04,3,en,recipe,weaving,2025-10-16,False
+recipe-2060319,2060319,Round Carpet,/assets/home_ground_carpet02,3,en,recipe,weaving,2025-10-16,False
+recipe-2060320,2060320,Square Carpet,/assets/home_ground_carpet01,3,en,recipe,weaving,2025-10-16,False
+recipe-2060321,2060321,Multi-Seater Leather Sofa,/assets/home_interior_furniture_leathersofa01_a,4,en,recipe,weaving,2025-10-16,False
+recipe-2060322,2060322,Light Shutters,/assets/home_interior_decoration_curtain001_a,4,en,recipe,weaving,2025-10-16,False
+recipe-2060323,2060323,Light Shutters - Large,/assets/home_interior_decoration_curtain002_a,4,en,recipe,weaving,2025-10-16,False
+recipe-2060324,2060324,Leisure Decor,/assets/home_interior_props_garland001_a,2,en,recipe,weaving,2025-10-16,False
+recipe-2060325,2060325,Joyful Moments,/assets/home_interior_props_garland002_a,2,en,recipe,weaving,2025-10-16,False
+recipe-2060326,2060326,Gathering Memories,/assets/home_interior_props_garland003_a,2,en,recipe,weaving,2025-10-16,False
+recipe-2060327,2060327,Sea Breeze Snapshot,/assets/home_outside_seawind_umbrella001_a,3,en,recipe,weaving,2025-10-16,False
+recipe-2060328,2060328,Pillow of Sweet Dreams,/assets/home_interior_furniture_pillow001_a,2,en,recipe,weaving,2025-10-16,False
+recipe-2060329,2060329,Nautical Anchor Rug,/assets/home_interior_props_carpet012_a,2,en,recipe,weaving,2025-10-16,False
+recipe-2060330,2060330,Weaving of Art,/assets/home_outside_seawind_blanket001_a,3,en,recipe,weaving,2025-10-16,False
+recipe-2060331,2060331,Dreamy Passage,/assets/home_outside_seawind_blanket002_a,3,en,recipe,weaving,2025-10-16,False
+recipe-2060332,2060332,Azure Skycloth,/assets/home_outside_tingyuan_clothm001_a,3,en,recipe,weaving,2025-10-16,False
+recipe-2060333,2060333,Orange & Black Spin,/assets/home_interior_props_carpet013_a,3,en,recipe,weaving,2025-10-16,False
+recipe-2060334,2060334,Woven Color Blocks,/assets/home_interior_furniture_campbasket001_a,4,en,recipe,weaving,2025-10-16,False
+recipe-2060335,2060335,Patterned Storage,/assets/home_interior_furniture_campbasket002_a,4,en,recipe,weaving,2025-10-16,False
+recipe-2060336,2060336,Woven Basket,/assets/home_interior_furniture_campbasket003_a,4,en,recipe,weaving,2025-10-16,False
+recipe-2060337,2060337,Traveler's Jar,/assets/home_interior_furniture_campbasket004_a,4,en,recipe,weaving,2025-10-16,False
+recipe-2060338,2060338,Spring Shade,/assets/home_interior_furniture_campcloth001_a,4,en,recipe,weaving,2025-10-16,False
+recipe-2060339,2060339,Desert Shade,/assets/home_interior_furniture_campcloth002_a,4,en,recipe,weaving,2025-10-16,False
+recipe-2060340,2060340,Wind Shade,/assets/home_interior_furniture_campcloth003_a,4,en,recipe,weaving,2025-10-16,False
+recipe-2060341,2060341,Rainbow Sleep,/assets/home_interior_furniture_housecloth001_a,4,en,recipe,weaving,2025-10-16,False
+recipe-2060342,2060342,Flowing Curtain,/assets/home_interior_furniture_hungflag001_a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061001,2061001,Wane Feltcap,/assets/headwear_icon_c_armormagic01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061002,2061002,Wane Visor,/assets/headwear_icon_c_armoragility01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061003,2061003,Wane Loafers,/assets/shoes_icon_m_armormagic01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061004,2061004,Wane Warleggings,/assets/shoes_icon_m_armoragility01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061005,2061005,Wane Gloves,/assets/gloves_icon_m_armormagic01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061006,2061006,Wane Bracers,/assets/gloves_icon_m_armoragility01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061007,2061007,Wane Crimson Charm,/assets/c_equip_icon_amulet01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061008,2061008,Wane Zircon Charm,/assets/c_equip_icon_amulet02,3,en,recipe,weaving,2025-10-16,False
+recipe-2061009,2061009,Wane Emerald Charm,/assets/c_equip_icon_amulet03,3,en,recipe,weaving,2025-10-16,False
+recipe-2061010,2061010,Wane Skirmishwear,/assets/clothes_icon_m_armormagic01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061011,2061011,Wane Combatwear,/assets/clothes_icon_m_armoragility01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061012,2061012,Wane Feltcap,/assets/headwear_icon_c_armormagic01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061013,2061013,Wane Visor,/assets/headwear_icon_c_armoragility01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061014,2061014,Wane Loafers,/assets/shoes_icon_m_armormagic01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061015,2061015,Wane Warleggings,/assets/shoes_icon_m_armoragility01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061016,2061016,Wane Gloves,/assets/gloves_icon_m_armormagic01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061017,2061017,Wane Bracers,/assets/gloves_icon_m_armoragility01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061018,2061018,Wane Crimson Charm,/assets/c_equip_icon_amulet01,4,en,recipe,weaving,2025-10-16,False
+recipe-2061019,2061019,Wane Zircon Charm,/assets/c_equip_icon_amulet02,4,en,recipe,weaving,2025-10-16,False
+recipe-2061020,2061020,Wane Emerald Charm,/assets/c_equip_icon_amulet03,4,en,recipe,weaving,2025-10-16,False
+recipe-2061021,2061021,Wane Skirmishwear,/assets/clothes_icon_m_armormagic01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061022,2061022,Wane Combatwear,/assets/clothes_icon_m_armoragility01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061023,2061023,Wane Hood,/assets/headwear_icon_c_armormagic01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061024,2061024,Wane Facehelm,/assets/headwear_icon_c_armoragility01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061025,2061025,Wane Legguards,/assets/shoes_icon_m_armormagic01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061026,2061026,Wane Greaves,/assets/shoes_icon_m_armoragility01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061027,2061027,Wane Wraps,/assets/gloves_icon_m_armormagic01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061028,2061028,Wane Gauntlets,/assets/gloves_icon_m_armoragility01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061029,2061029,Wane Ruby Charm,/assets/c_equip_icon_amulet01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061030,2061030,Wane Diamond Charm,/assets/c_equip_icon_amulet02,3,en,recipe,weaving,2025-10-16,False
+recipe-2061031,2061031,Wane Jade Charm,/assets/c_equip_icon_amulet03,3,en,recipe,weaving,2025-10-16,False
+recipe-2061032,2061032,Wane Robe,/assets/clothes_icon_m_armormagic01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061033,2061033,Wane Cuirass,/assets/clothes_icon_m_armoragility01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061034,2061034,Wane Hood,/assets/headwear_icon_c_armormagic01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061035,2061035,Wane Facehelm,/assets/headwear_icon_c_armoragility01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061036,2061036,Wane Legguards,/assets/shoes_icon_m_armormagic01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061037,2061037,Wane Greaves,/assets/shoes_icon_m_armoragility01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061038,2061038,Wane Wraps,/assets/gloves_icon_m_armormagic01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061039,2061039,Wane Gauntlets,/assets/gloves_icon_m_armoragility01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061040,2061040,Wane Ruby Charm,/assets/c_equip_icon_amulet01,4,en,recipe,weaving,2025-10-16,False
+recipe-2061041,2061041,Wane Diamond Charm,/assets/c_equip_icon_amulet02,4,en,recipe,weaving,2025-10-16,False
+recipe-2061042,2061042,Wane Jade Charm,/assets/c_equip_icon_amulet03,4,en,recipe,weaving,2025-10-16,False
+recipe-2061043,2061043,Wane Robe,/assets/clothes_icon_m_armormagic01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061044,2061044,Wane Cuirass,/assets/clothes_icon_m_armoragility01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061045,2061045,Wane Circlet,/assets/headwear_icon_c_armormagic01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061046,2061046,Wane Facehelm,/assets/headwear_icon_c_armoragility01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061047,2061047,Wane Boots,/assets/shoes_icon_m_armormagic01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061048,2061048,Wane Battleboots,/assets/shoes_icon_m_armoragility01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061049,2061049,Wane Armbands,/assets/gloves_icon_m_armormagic01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061050,2061050,Wane Armplates,/assets/gloves_icon_m_armoragility01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061051,2061051,Wane Solar Charm,/assets/c_equip_icon_amulet01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061052,2061052,Wane Star Charm,/assets/c_equip_icon_amulet02,3,en,recipe,weaving,2025-10-16,False
+recipe-2061053,2061053,Wane Jasper Charm,/assets/c_equip_icon_amulet03,3,en,recipe,weaving,2025-10-16,False
+recipe-2061054,2061054,Wane Haori,/assets/clothes_icon_m_armormagic01,3,en,recipe,weaving,2025-10-16,False
+recipe-2061055,2061055,Wane Warplate,/assets/clothes_icon_m_lightarmour02,3,en,recipe,weaving,2025-10-16,False
+recipe-2061056,2061056,Wane Circlet,/assets/headwear_icon_c_armormagic01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061057,2061057,Wane Openhelm,/assets/headwear_icon_c_armoragility01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061058,2061058,Wane Boots,/assets/shoes_icon_m_armormagic01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061059,2061059,Wane Battleboots,/assets/shoes_icon_m_armoragility01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061060,2061060,Wane Armbands,/assets/gloves_icon_m_armormagic01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061061,2061061,Wane Armplates,/assets/gloves_icon_m_armoragility01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061062,2061062,Wane Solar Charm,/assets/c_equip_icon_amulet01,4,en,recipe,weaving,2025-10-16,False
+recipe-2061063,2061063,Wane Star Charm,/assets/c_equip_icon_amulet02,4,en,recipe,weaving,2025-10-16,False
+recipe-2061064,2061064,Wane Jasper Charm,/assets/c_equip_icon_amulet03,4,en,recipe,weaving,2025-10-16,False
+recipe-2061065,2061065,Wane Haori,/assets/clothes_icon_m_armormagic01a,4,en,recipe,weaving,2025-10-16,False
+recipe-2061066,2061066,Wane Warplate,/assets/clothes_icon_m_armoragility01a,4,en,recipe,weaving,2025-10-16,False
