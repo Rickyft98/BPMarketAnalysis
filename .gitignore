@@ -1,2 +1,5 @@
 __pycache__/
-
+GetGatherable.py
+GetRecipes.py
+GetYields.py
+ScrapAllRecipes.py

@@ -1,0 +1,52 @@
+compoundId,id,name,icon,grade,language,dbType,mainCategory,createdAt,isDisabled
+collectable-20000002,20000002,Pink Musk,/assets/item_icons_pinkflower,1,en,collectable,botany,2025-10-16,False
+collectable-20000003,20000003,Scallop,/assets/item_icons_scallop,0,en,collectable,botany,2025-10-16,False
+collectable-20000004,20000004,Snowflake Parsley,/assets/item_icons_snowflower,0,en,collectable,botany,2025-10-16,False
+collectable-20000005,20000005,Whispering Orchid,/assets/item_icons_purpleflower_02,2,en,collectable,botany,2025-10-16,False
+collectable-20000006,20000006,Meadow Mushroom,/assets/item_icons_mushroom,0,en,collectable,botany,2025-10-16,False
+collectable-20000007,20000007,Grey-top Flax,/assets/item_icons_flax_02,0,en,collectable,botany,2025-10-16,False
+collectable-20000008,20000008,Granny Pine,/assets/item_icons_matsutake,2,en,collectable,botany,2025-10-16,False
+collectable-20000009,20000009,Helmflower,/assets/item_icons_sunflower,0,en,collectable,botany,2025-10-16,False
+collectable-20000010,20000010,Sweet Berry,/assets/item_icons_berry,0,en,collectable,botany,2025-10-16,False
+collectable-20000012,20000012,Firefly,/assets/item_icons_yingguangchi,0,en,collectable,botany,2025-10-16,False
+collectable-20000013,20000013,Tris Sea Fish,/assets/item_icons_fish01,0,en,collectable,botany,2025-10-16,False
+collectable-20000014,20000014,Pale Blue Fish,/assets/item_icons_fish03,0,en,collectable,botany,2025-10-16,False
+collectable-20000015,20000015,Glowshroom,/assets/item_icons_fluorescent_mushroom_01,1,en,collectable,botany,2025-10-16,False
+collectable-20000016,20000016,Umu Fruit,/assets/item_icons_um_fruit_01,1,en,collectable,botany,2025-10-16,False
+collectable-20000017,20000017,Azure Fruit,/assets/item_icons_deepblue_fruit_01,2,en,collectable,botany,2025-10-16,False
+collectable-20000018,20000018,Wheat Field,/assets/item_icons_lifematerial_wheat01,0,en,collectable,botany,2025-10-16,False
+collectable-20000019,20000019,Asteria Cotton,/assets/item_icons_cottongrass_01,1,en,collectable,botany,2025-10-16,False
+collectable-20000020,20000020,Rainbow Herb,/assets/item_icons_lifematerial_evergreengrass01,1,en,collectable,botany,2025-10-16,False
+collectable-20000021,20000021,Thin Twig,/assets/item_icons_lifematerial_branch01,0,en,collectable,botany,2025-10-16,False
+collectable-20000022,20000022,Wood Branch,/assets/item_icons_lifematerial_branch02,1,en,collectable,botany,2025-10-16,False
+collectable-20000023,20000023,Branch Cluster,/assets/item_icons_lifematerial_stalk03,2,en,collectable,botany,2025-10-16,False
+collectable-20000100,20000100,Andra Enigmite,/assets/item_icons_blackstone,1,en,collectable,gemology,2025-10-16,False
+collectable-20000101,20000101,Baru Ore,/assets/item_icons_iron_ore_01,1,en,collectable,mineralogy,2025-10-16,False
+collectable-20000102,20000102,Baru Rich Ore,/assets/item_icons_iron_ore_02,2,en,collectable,mineralogy,2025-10-16,False
+collectable-20000103,20000103,Baru Pure Ore,/assets/item_icons_iron_ore_03,3,en,collectable,mineralogy,2025-10-16,False
+collectable-20000104,20000104,Azte Ore,/assets/item_icons_copper_ore_01,1,en,collectable,mineralogy,2025-10-16,False
+collectable-20000105,20000105,Azte Rich Ore,/assets/item_icons_copper_ore_02,2,en,collectable,mineralogy,2025-10-16,False
+collectable-20000106,20000106,Azte Pure Ore,/assets/item_icons_copper_ore_03,3,en,collectable,mineralogy,2025-10-16,False
+collectable-20000107,20000107,Luna Ore,/assets/item_icons_silver_ore_01,1,en,collectable,mineralogy,2025-10-16,False
+collectable-20000108,20000108,Luna Rich Ore,/assets/item_icons_silver_ore_02,2,en,collectable,mineralogy,2025-10-16,False
+collectable-20000109,20000109,Luna Pure Ore,/assets/item_icons_silver_ore_03,3,en,collectable,mineralogy,2025-10-16,False
+collectable-20000111,20000111,Stokes Rich Ore,/assets/item_icons_gold_ore_02,2,en,collectable,mineralogy,2025-10-16,False
+collectable-20000112,20000112,Stokes Pure Ore,/assets/item_icons_gold_ore_03,3,en,collectable,mineralogy,2025-10-16,False
+collectable-20000201,20000201,Raw Ore of Sapphire,/assets/item_icons_lifematerial_original_stone03,1,en,collectable,gemology,2025-10-16,False
+collectable-20000202,20000202,Rich Ore of Sapphire,/assets/item_icons_lifecollection_bluestone02,2,en,collectable,gemology,2025-10-16,False
+collectable-20000203,20000203,Sapphire Cluster,/assets/item_icons_lifecollection_bluestone03,3,en,collectable,gemology,2025-10-16,False
+collectable-20000204,20000204,Raw Ore of Ruby,/assets/item_icons_lifematerial_original_stone04,1,en,collectable,gemology,2025-10-16,False
+collectable-20000205,20000205,Rich Ore of Ruby,/assets/item_icons_lifecollection_redstone02,2,en,collectable,gemology,2025-10-16,False
+collectable-20000206,20000206,Ruby Cluster,/assets/item_icons_lifecollection_redstone03,3,en,collectable,gemology,2025-10-16,False
+collectable-20000207,20000207,Raw Ore of Topaz,/assets/item_icons_lifematerial_original_stone05,1,en,collectable,gemology,2025-10-16,False
+collectable-20000208,20000208,Rich Ore of Topaz,/assets/item_icons_lifecollection_yellowstone02,2,en,collectable,gemology,2025-10-16,False
+collectable-20000209,20000209,Topaz Cluster,/assets/item_icons_lifecollection_yellowstone03,3,en,collectable,gemology,2025-10-16,False
+collectable-20000210,20000210,Raw Ore of Emerald,/assets/item_icons_lifematerial_original_stone06,1,en,collectable,gemology,2025-10-16,False
+collectable-20000211,20000211,Rich Ore of Emerald,/assets/item_icons_lifecollection_greenstone02,2,en,collectable,gemology,2025-10-16,False
+collectable-20000212,20000212,Emerald Cluster,/assets/item_icons_lifecollection_greenstone03,3,en,collectable,gemology,2025-10-16,False
+collectable-20000213,20000213,Limestone,/assets/item_icons_lifematerial_original_stone21,0,en,collectable,gemology,2025-10-16,False
+collectable-20000214,20000214,Slate,/assets/item_icons_lifematerial_original_stone22,1,en,collectable,gemology,2025-10-16,False
+collectable-20000215,20000215,Granite,/assets/item_icons_lifematerial_original_stone23,2,en,collectable,gemology,2025-10-16,False
+collectable-20000216,20000216,Windvale Enigmite,/assets/item_icons_lifematerial_original_stone13,2,en,collectable,gemology,2025-10-16,False
+collectable-20000217,20000217,Cobalt Enigmite,/assets/item_icons_lifematerial_original_stone20,3,en,collectable,gemology,2025-10-16,False
+collectable-20000218,20000218,Rainbow Stone,/assets/item_icons_lifematerial_original_stone19,1,en,collectable,gemology,2025-10-16,False
